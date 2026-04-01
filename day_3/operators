@@ -1,0 +1,169 @@
+# Declare variables
+age = 26              # integer variable
+height = 1.65         # float variable (in meters)
+complex_number = 3 + 4j   # complex number variable
+
+# Display the declared variables
+print("Age:", age)
+print("Height:", height)
+print("Complex Number:", complex_number)
+
+# Prompt user for base and height of a triangle
+base = float(input("Enter the base of the triangle: "))
+height = float(input("Enter the height of the triangle: "))
+
+# Calculate area
+area = 0.5 * base * height
+
+# Display result
+print("The area of the triangle is:", area)
+
+
+# Prompt user to enter the sides of the triangle
+a = float(input("Enter side a: "))
+b = float(input("Enter side b: "))
+c = float(input("Enter side c: "))
+
+# Calculate the perimeter
+perimeter = a + b + c
+
+# Display the result
+print("The perimeter of the triangle is:", perimeter)
+
+
+# 1. Rectangle calculations
+length = float(input("Enter length of rectangle: "))
+width = float(input("Enter width of rectangle: "))
+
+area_rectangle = length * width
+perimeter_rectangle = 2 * (length + width)
+
+print("Rectangle Area:", area_rectangle)
+print("Rectangle Perimeter:", perimeter_rectangle)
+
+
+# 2. Circle calculations
+radius = float(input("Enter radius of circle: "))
+pi = 3.14
+
+area_circle = pi * radius * radius
+circumference = 2 * pi * radius
+
+print("Circle Area:", area_circle)
+print("Circle Circumference:", circumference)
+
+
+# 3. Line y = 2x - 2
+m = 2  # slope
+y_intercept = -2
+
+# x-intercept: set y = 0 → 0 = 2x - 2 → x = 1
+x_intercept = 1
+
+print("Slope:", m)
+print("X-intercept:", x_intercept)
+print("Y-intercept:", y_intercept)
+
+
+# 4. Slope and distance between (2,2) and (6,10)
+x1, y1 = 2, 2
+x2, y2 = 6, 10
+
+slope_points = (y2 - y1) / (x2 - x1)
+distance = ((x2 - x1)**2 + (y2 - y1)**2) ** 0.5
+
+print("Slope between points:", slope_points)
+print("Euclidean Distance:", distance)
+
+
+# 5. Compare slopes
+print("Are slopes equal?", m == slope_points)
+
+
+# 6. Quadratic equation y = x^2 + 6x + 9
+# Factorized: (x + 3)^2 → y = 0 when x = -3
+x = -3
+y = x**2 + 6*x + 9
+
+print("Value of y when x = -3:", y)
+
+
+# 7. Length comparison
+len_python = len("python")
+len_dragon = len("dragon")
+
+print("Lengths equal?", len_python == len_dragon)
+
+
+# 8. Check 'on' in both words
+print("'on' in python and dragon:", 'on' in "python" and 'on' in "dragon")
+
+
+# 9. Check 'jargon' in sentence
+sentence = "I hope this course is not full of jargon"
+print("'jargon' in sentence:", 'jargon' in sentence)
+
+
+# 10. Confirm no 'on' in both (logical statement)
+print("There is no 'on' in both:", not ('on' in "python" and 'on' in "dragon"))
+
+
+# 11. Length conversion
+length_python = len("python")
+print("Length as float:", float(length_python))
+print("Length as string:", str(length_python))
+
+
+# 12. Check if a number is even
+num = int(input("Enter a number to check if even: "))
+print("Is even?", num % 2 == 0)
+
+
+# 13. Floor division check
+print("7 // 3 == int(2.7):", 7 // 3 == int(2.7))
+
+
+# 14. Type comparison
+print("Type('10') == type(10):", type('10') == type(10))
+
+
+# 15. Invalid conversion check
+# int('9.8') would cause error, so we handle it safely
+try:
+    result = int('9.8') == 10
+except ValueError:
+    result = "Error: cannot convert '9.8' to int"
+
+print(result)
+
+
+# 16. Calculate pay
+hours = float(input("Enter hours worked: "))
+rate = float(input("Enter rate per hour: "))
+
+pay = hours * rate
+print("Your weekly earning is:", pay)
+
+
+# Prompt user to enter number of years
+years = int(input("Enter number of years you have lived: "))
+
+# Constants
+seconds_in_one_year = 365 * 24 * 60 * 60
+
+# Calculate seconds lived
+seconds_lived = years * seconds_in_one_year
+
+# Calculate total seconds in 100 years
+max_years = 100
+total_seconds_100_years = max_years * seconds_in_one_year
+
+# Display results
+print("You have lived for", seconds_lived, "seconds.")
+print("If you live up to 100 years, you can live for", total_seconds_100_years, "seconds.")
+
+
+print("Number 1  Number  Number^2  Number^3")
+
+for i in range(1, 6):
+    print(i, 1, i, i**2, i**3)
