@@ -1,0 +1,162 @@
+for i in range(11):
+    print(i)
+i = 0
+while i <= 10:
+    print(i)
+    i += 1
+for i in range(10, -1, -1):
+    print(i)
+i = 10
+while i >= 0:
+    print(i)
+    i -= 1
+for i in range(1, 8):
+    print('#' * i)
+for i in range(8):
+    for j in range(8):
+        print('#', end=' ')
+    print()
+for i in range(11):
+    print(f"{i} x {i} = {i * i}")
+items = ['Python', 'Numpy', 'Pandas', 'Django', 'Flask']
+
+for item in items:
+    print(item)
+for i in range(0, 101):
+    if i % 2 == 0:
+        print(i)
+for i in range(0, 101):
+    if i % 2 != 0:
+        print(i)
+total = 0
+
+for i in range(101):
+    total += i
+
+print("The sum of all numbers is", total)
+even_sum = 0
+odd_sum = 0
+
+for i in range(101):
+    if i % 2 == 0:
+        even_sum += i
+    else:
+        odd_sum += i
+
+print(f"The sum of all evens is {even_sum}. And the sum of all odds is {odd_sum}.")
+
+
+countries_data = [
+    {
+        "name": "China",
+        "population": 1402112000,
+        "languages": ["Chinese"]
+    },
+    {
+        "name": "India",
+        "population": 1393409038,
+        "languages": ["Hindi", "English"]
+    },
+    {
+        "name": "United States",
+        "population": 331893745,
+        "languages": ["English"]
+    },
+    {
+        "name": "Indonesia",
+        "population": 273523621,
+        "languages": ["Indonesian"]
+    },
+    {
+        "name": "Pakistan",
+        "population": 220892331,
+        "languages": ["Urdu", "English"]
+    },
+    {
+        "name": "Brazil",
+        "population": 212559409,
+        "languages": ["Portuguese"]
+    },
+    {
+        "name": "Nigeria",
+        "population": 206139587,
+        "languages": ["English"]
+    },
+    {
+        "name": "Bangladesh",
+        "population": 164689383,
+        "languages": ["Bengali"]
+    },
+    {
+        "name": "Russia",
+        "population": 145934460,
+        "languages": ["Russian"]
+    },
+    {
+        "name": "Mexico",
+        "population": 128932753,
+        "languages": ["Spanish"]
+    }
+]
+
+# COUNTRIES WITH "land"
+
+countries = [
+    'Finland', 'Iceland', 'Ireland', 'Poland',
+    'Thailand', 'New Zealand', 'Switzerland'
+]
+
+countries_with_land = []
+
+for country in countries:
+    if 'land' in country:
+        countries_with_land.append(country)
+
+print("Countries containing 'land':", countries_with_land)
+
+# REVERSE FRUITS LIST
+
+fruits = ['banana', 'orange', 'mango', 'lemon']
+
+reversed_fruits = []
+
+for i in range(len(fruits) - 1, -1, -1):
+    reversed_fruits.append(fruits[i])
+
+print("Reversed fruits:", reversed_fruits)
+
+
+# TOTAL NUMBER OF LANGUAGES
+
+languages = set()
+
+for country in countries_data:
+    for lang in country['languages']:
+        languages.add(lang)
+
+print("Total number of languages:", len(languages))
+
+#  MOST SPOKEN LANGUAGES
+
+language_count = {}
+
+for country in countries_data:
+    for lang in country['languages']:
+        if lang in language_count:
+            language_count[lang] += 1
+        else:
+            language_count[lang] = 1
+
+sorted_languages = sorted(language_count.items(), key=lambda x: x[1], reverse=True)
+
+print("\nTop spoken languages:")
+for lang, count in sorted_languages[:10]:
+    print(f"{lang}: {count}")
+
+#MOST POPULATED COUNTRIES
+
+sorted_countries = sorted(countries_data, key=lambda x: x['population'], reverse=True)
+
+print("\nTop populated countries:")
+for country in sorted_countries[:10]:
+    print(f"{country['name']}: {country['population']}")
