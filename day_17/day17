@@ -1,0 +1,60 @@
+import json
+from collections import Counter
+
+
+# COUNT LINES AND WORDS
+
+
+def count_lines_words(filepath):
+    with open(filepath, 'r', encoding='utf-8') as file:
+        lines = file.readlines()
+
+    line_count = len(lines)
+    word_count = sum(len(line.split()) for line in lines)
+
+    return line_count, word_count
+
+
+# MOST SPOKEN LANGUAGES
+
+
+def most_spoken_languages(filepath, top_n=10):
+    with open(filepath, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+
+    languages = []
+
+    for country in data:
+        languages.extend(country.get('languages', []))
+
+    return Counter(languages).most_common(top_n)
+
+
+
+# MAIN EXECUTION
+
+
+def main():
+    print("\n===== SPEECH ANALYSIS =====\n")
+
+    files = {
+        "Obama": "data/obama_speech.txt",
+        "Michelle Obama": "data/michelle_obama_speech.txt",
+        "Donald Trump": "data/donald_speech.txt",
+        "Melania Trump": "data/melina_trump_speech.txt"
+    }
+
+    for name, path in files.items():
+        lines, words = count_lines_words(path)
+        print(f"{name} Speech -> Lines: {lines}, Words: {words}")
+
+    print("\n===== TOP 10 SPOKEN LANGUAGES =====\n")
+
+    languages = most_spoken_languages("data/countries_data.json")
+
+    for lang, count in languages:
+        print(f"{lang}: {count}")
+
+
+if __name__ == "__main__":
+    main()

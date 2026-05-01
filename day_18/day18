@@ -1,0 +1,86 @@
+import json
+
+def most_populated_countries(filepath, top_n=10):
+    with open(filepath, 'r', encoding='utf-8') as file:
+        countries_data = json.load(file)
+
+    # Sort countries by population (descending)
+    sorted_countries = sorted(
+        countries_data,
+        key=lambda country: country['population'],
+        reverse=True
+    )
+
+    # Extract top N countries
+    top_countries = []
+
+    for country in sorted_countries[:top_n]:
+        top_countries.append({
+            'country': country['name'],
+            'population': country['population']
+        })
+
+    return top_countries
+
+import re
+import json
+from collections import Counter
+
+
+
+# COUNT LINES AND WORDS
+
+def count_lines_words(filepath):
+    with open(filepath, 'r', encoding='utf-8') as file:
+        lines = file.readlines()
+
+    return len(lines), sum(len(line.split()) for line in lines)
+
+
+# EXTRACT EMAILS
+def extract_emails(filepath):
+    with open(filepath, 'r', encoding='utf-8') as file:
+        text = file.read()
+
+    emails = re.findall(r'[\w\.-]+@[\w\.-]+\.\w+', text)
+    return emails
+
+
+# MOST COMMON WORDS
+
+def find_most_common_words(text_or_file, n):
+    try:
+        with open(text_or_file, 'r', encoding='utf-8') as file:
+            text = file.read()
+    except FileNotFoundError:
+        text = text_or_file
+
+    text = text.lower()
+    text = re.sub(r'[^a-z\s]', '', text)
+
+    words = text.split()
+    return Counter(words).most_common(n)
+
+
+# MOST SPOKEN LANGUAGES
+def most_spoken_languages(filepath, top_n=10):
+    with open(filepath, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+
+    languages = []
+    for country in data:
+        languages.extend(country.get('languages', []))
+
+    return Counter(languages).most_common(top_n)
+
+
+
+# MOST POPULATED COUNTRIES
+
+def most_populated_countries(filepath, top_n=10):
+    with open(filepath, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+
+    sorted_countries = sorted(data, key=lambda x: x['population'], reverse=True)
+
+    return [(c['name'], c['population']) for c in sorted_countries[:top_n]]

@@ -1,0 +1,159 @@
+from urllib import response
+
+import requests
+import re
+import statistics
+from collections import Counter
+from bs4 import BeautifulSoup
+
+
+
+#  ROMEO & JULIET WORD FREQUENCY
+
+def most_frequent_words_from_url(url, n=10):
+    response = requests.get(url)
+    text = response.text.lower()
+
+    text = re.sub(r'[^a-z\s]', '', text)
+    words = text.split()
+
+    return Counter(words).most_common(n)
+
+
+#  CAT API ANALYSIS
+def analyze_cats():
+    url = "https://api.thecatapi.com/v1/breeds"
+    data = requests.get(url).json()
+
+    weights = []
+    lifespans = []
+    country_breed = {}
+
+    for cat in data:
+        # weight
+        w = cat['weight']['metric'].split(' - ')
+        avg_weight = (float(w[0]) + float(w[1])) / 2
+        weights.append(avg_weight)
+
+        # lifespan
+        l = cat['life_span'].split(' - ')
+        avg_life = (float(l[0]) + float(l[1])) / 2
+        lifespans.append(avg_life)
+
+        # country-breed mapping
+        country = cat.get('origin', 'Unknown')
+        breed = cat['name']
+
+        country_breed.setdefault(country, []).append(breed)
+
+    def stats(values):
+        return {
+            "min": min(values),
+            "max": max(values),
+            "mean": sum(values) / len(values),
+            "median": statistics.median(values),
+            "std": statistics.stdev(values)
+        }
+
+    return {
+        "weight": stats(weights),
+        "lifespan": stats(lifespans),
+        "country_breeds": country_breed
+    }
+
+
+#  COUNTRIES API ANALYSIS
+
+def analyze_countries():
+    url = "https://restcountries.com/v3.1/all"
+    data = requests.get(url).json()
+    response = requests.get(url)
+if response.status_code == 200:
+    data = response.json()
+else:
+    print(f"Failed to fetch data: {response.status_code}")
+    return
+
+
+    countries = []
+    languages = []
+
+    for c in data:
+        countries.append({
+            "name": c.get("name", {}).get("common"),
+            "population": c.get("population", 0)
+        })
+
+        langs = c.get("languages", {})
+        if langs:
+            languages.extend(langs.values())
+
+    top_countries = sorted(
+        countries,
+        key=lambda x: x["population"],
+        reverse=True
+    )[:10]
+
+    lang_count = Counter(languages)
+
+    return {
+        "top_countries": top_countries,
+        "top_languages": lang_count.most_common(10),
+        "total_languages": len(lang_count)
+    }
+
+
+
+#  UCI SCRAPER
+
+def scrape_uci():
+    url = "https://archive.ics.uci.edu/ml/datasets.php"
+    soup = BeautifulSoup(requests.get(url).content, "html.parser")
+
+    titles = []
+
+    for link in soup.find_all('a'):
+        text = link.text.strip()
+        if len(text) > 3:
+            titles.append(text)
+
+    return titles[:20]
+
+
+# MAIN PROGRAM
+
+def main():
+
+    print("\n===== ROMEO & JULIET TOP WORDS =====")
+    romeo_url = "http://www.gutenberg.org/files/1112/1112.txt"
+    print(most_frequent_words_from_url(romeo_url, 10))
+
+
+    print("\n===== CAT API ANALYSIS =====")
+    cats = analyze_cats()
+
+    print("Weight stats:", cats["weight"])
+    print("Lifespan stats:", cats["lifespan"])
+    print("Sample country-breeds:", list(cats["country_breeds"].items())[:3])
+
+
+    print("\n===== COUNTRIES API =====")
+    countries = analyze_countries()
+
+    print("\nTop 10 Populated Countries:")
+    for c in countries["top_countries"]:
+        print(c)
+
+    print("\nTop 10 Languages:")
+    print(countries["top_languages"])
+
+    print("\nTotal Languages:", countries["total_languages"])
+
+
+    print("\n===== UCI DATASET SAMPLE =====")
+    print(scrape_uci())
+
+
+# Run program
+if __name__ == "__main__":
+    main()

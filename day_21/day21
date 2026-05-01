@@ -1,0 +1,99 @@
+from collections import Counter
+import math
+
+
+class Statistics:
+
+    def __init__(self, data):
+        if not data:
+            raise ValueError("Data list cannot be empty")
+        self.data = sorted(data)
+        self.count = len(data)
+
+    # =========================
+    # BASIC MEASURES
+    # =========================
+    def mean(self):
+        return sum(self.data) / self.count
+
+    def median(self):
+        mid = self.count // 2
+        if self.count % 2 == 0:
+            return (self.data[mid - 1] + self.data[mid]) / 2
+        return self.data[mid]
+
+    def mode(self):
+        freq = Counter(self.data)
+        max_freq = max(freq.values())
+        modes = [k for k, v in freq.items() if v == max_freq]
+        return {"mode": modes, "count": max_freq}
+
+    # =========================
+    # VARIABILITY
+    # =========================
+    def data_range(self):
+        return max(self.data) - min(self.data)
+
+    def variance(self):
+        mean = self.mean()
+        return sum((x - mean) ** 2 for x in self.data) / self.count
+
+    def std(self):
+        return math.sqrt(self.variance())
+
+    # =========================
+    # OTHER MEASURES
+    # =========================
+    def min(self):
+        return min(self.data)
+
+    def max(self):
+        return max(self.data)
+
+    def percentile(self, p):
+        """
+        p = percentile (0–100)
+        """
+        if not 0 <= p <= 100:
+            raise ValueError("Percentile must be between 0 and 100")
+
+        k = (self.count - 1) * (p / 100)
+        f = int(k)
+        c = min(f + 1, self.count - 1)
+
+        if f == c:
+            return self.data[int(k)]
+
+        d0 = self.data[f] * (c - k)
+        d1 = self.data[c] * (k - f)
+
+        return d0 + d1
+
+    def freq_dist(self):
+        freq = Counter(self.data)
+        total = self.count
+
+        return sorted(
+            [(round((v / total) * 100, 1), k) for k, v in freq.items()],
+            reverse=True
+        )
+
+    # =========================
+    # SUMMARY
+    # =========================
+    def describe(self):
+        return {
+            "Count": self.count,
+            "Min": self.min(),
+            "Max": self.max(),
+            "Range": self.data_range(),
+            "Mean": round(self.mean(), 2),
+            "Median": self.median(),
+            "Mode": self.mode(),
+            "Variance": round(self.variance(), 2),
+            "Standard Deviation": round(self.std(), 2),
+            "25th Percentile": self.percentile(25),
+            "50th Percentile": self.percentile(50),
+            "75th Percentile": self.percentile(75),
+            "Frequency Distribution": self.freq_dist()
+        }

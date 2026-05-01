@@ -1,0 +1,179 @@
+import re
+import json
+import csv
+from collections import Counter
+
+
+
+# CLEAN TEXT
+
+def clean_text(text):
+    text = text.lower()
+    text = re.sub(r'[^a-z\s]', '', text)
+    return text
+
+
+
+# MOST FREQUENT WORDS
+
+def find_most_frequent_words(text_or_file, n=10):
+    try:
+        with open(text_or_file, 'r', encoding='utf-8') as file:
+            text = file.read()
+    except FileNotFoundError:
+        text = text_or_file
+
+    text = clean_text(text)
+    words = text.split()
+
+    return Counter(words).most_common(n)
+
+
+# REMOVE STOP WORDS
+
+def remove_stop_words(text, stop_words):
+    words = text.split()
+    return " ".join([word for word in words if word not in stop_words])
+
+
+
+# TEXT SIMILARITY
+
+def check_text_similarity(text1, text2, stop_words):
+    text1 = remove_stop_words(clean_text(text1), stop_words)
+    text2 = remove_stop_words(clean_text(text2), stop_words)
+
+    set1 = set(text1.split())
+    set2 = set(text2.split())
+
+    similarity = len(set1.intersection(set2)) / len(set1.union(set2))
+    return round(similarity, 2)
+
+
+
+#  EMAIL EXTRACTION
+
+def extract_emails(filepath):
+    with open(filepath, 'r', encoding='utf-8') as file:
+        text = file.read()
+
+    return re.findall(r'[\w\.-]+@[\w\.-]+\.\w+', text)
+
+
+
+# LINES & WORDS COUNT
+
+def count_lines_words(filepath):
+    with open(filepath, 'r', encoding='utf-8') as file:
+        lines = file.readlines()
+
+    return len(lines), sum(len(line.split()) for line in lines)
+
+
+
+# MOST SPOKEN LANGUAGES
+
+def most_spoken_languages(filepath, top_n=10):
+    with open(filepath, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+
+    languages = []
+    for country in data:
+        languages.extend(country.get('languages', []))
+
+    return Counter(languages).most_common(top_n)
+
+
+
+# MOST POPULATED COUNTRIES
+
+def most_populated_countries(filepath, top_n=10):
+    with open(filepath, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+
+    sorted_data = sorted(data, key=lambda x: x['population'], reverse=True)
+
+    return [(c['name'], c['population']) for c in sorted_data[:top_n]]
+
+
+
+#  HACKER NEWS ANALYSIS
+def hacker_news_analysis(filepath):
+    python_count = 0
+    js_count = 0
+    java_not_js = 0
+
+    with open(filepath, encoding='utf-8') as file:
+        reader = csv.reader(file)
+
+        for row in reader:
+            text = " ".join(row).lower()
+
+            if "python" in text:
+                python_count += 1
+
+            if "javascript" in text:
+                js_count += 1
+
+            if "java" in text and "javascript" not in text:
+                java_not_js += 1
+
+    return python_count, js_count, java_not_js
+
+
+
+# MAIN PROGRAM
+
+def main():
+
+    print("\n===== SPEECH ANALYSIS =====\n")
+
+    speech_files = {
+        "Obama": "data/obama_speech.txt",
+        "Michelle Obama": "data/michelle_obama_speech.txt",
+        "Donald Trump": "data/donald_speech.txt",
+        "Melania Trump": "data/melina_trump_speech.txt"
+    }
+
+    for name, path in speech_files.items():
+        print(f"{name}:", find_most_frequent_words(path, 10))
+
+
+    print("\n===== EMAIL EXTRACTION =====\n")
+    emails = extract_emails("data/email_exchange_big.txt")
+    print("Total emails:", len(emails))
+
+
+    print("\n===== ROMEO & JULIET =====\n")
+    print(find_most_frequent_words("data/romeo_and_juliet.txt", 10))
+
+
+    print("\n===== TEXT SIMILARITY =====\n")
+
+    with open("data/michelle_obama_speech.txt", "r", encoding="utf-8") as f:
+        michelle = f.read()
+
+    with open("data/melina_trump_speech.txt", "r", encoding="utf-8") as f:
+        melania = f.read()
+
+    with open("data/stop_words.txt", "r", encoding="utf-8") as f:
+        stop_words = f.read().split()
+
+    print("Similarity:", check_text_similarity(michelle, melania, stop_words))
+
+
+    print("\n===== COUNTRIES DATA =====\n")
+    print("Languages:", most_spoken_languages("data/countries_data.json", 10))
+    print("Populated:", most_populated_countries("data/countries_data.json", 10))
+
+
+    print("\n===== HACKER NEWS =====\n")
+    py, js, java = hacker_news_analysis("data/hacker_news.csv")
+
+    print("Python lines:", py)
+    print("JavaScript lines:", js)
+    print("Java (not JS) lines:", java)
+
+
+if __name__ == "__main__":
+    main()
