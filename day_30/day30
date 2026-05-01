@@ -1,0 +1,15 @@
+def word_count():
+    text = input("Enter a sentence: ")
+
+    words = text.split()
+    count = {}
+
+    for word in words:
+        word = word.lower()
+        count[word] = count.get(word, 0) + 1
+
+    print("\nWord Frequency:")
+    for word, freq in count.items():
+        print(f"{word}: {freq}")
+
+word_count()
