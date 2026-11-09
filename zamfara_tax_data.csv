@@ -1,0 +1,2001 @@
+Transaction_ID,LGA,Economic_Sector,Assessed_Amount_NGN,Historical_Delay_Count,Business_Age_Years,Non_Compliant
+TXN-00001,Talata Mafara,Agriculture & Agro-Allied,2169844,1,20,0
+TXN-00002,Zurmi,Agriculture & Agro-Allied,1747818,1,10,0
+TXN-00003,Bukkuyum,Small-Scale Manufacturing,2368620,1,24,0
+TXN-00004,Kaura Namoda,Agriculture & Agro-Allied,2227304,1,20,0
+TXN-00005,Gusau,Agriculture & Agro-Allied,2151121,0,11,0
+TXN-00006,Gusau,Transportation,1134309,2,10,1
+TXN-00007,Gusau,Retail & Commerce,2479151,0,23,1
+TXN-00008,Gummi,Transportation,91743,3,5,1
+TXN-00009,Kaura Namoda,Agriculture & Agro-Allied,1753057,1,9,0
+TXN-00010,Bakura,Retail & Commerce,220948,0,20,1
+TXN-00011,Gusau,Agriculture & Agro-Allied,943877,3,19,1
+TXN-00012,Zurmi,Agriculture & Agro-Allied,2167475,1,13,1
+TXN-00013,Gummi,Small-Scale Manufacturing,1377148,1,18,0
+TXN-00014,Gusau,Agriculture & Agro-Allied,551793,0,17,1
+TXN-00015,Gusau,Retail & Commerce,376284,1,6,0
+TXN-00016,Gusau,Retail & Commerce,1880314,0,10,0
+TXN-00017,Gusau,Retail & Commerce,1968837,1,2,1
+TXN-00018,Kaura Namoda,Hospitality & Services,318508,1,24,0
+TXN-00019,Talata Mafara,Agriculture & Agro-Allied,441011,2,6,0
+TXN-00020,Gusau,Transportation,1527141,3,21,1
+TXN-00021,Kaura Namoda,Small-Scale Manufacturing,1754627,1,13,1
+TXN-00022,Gusau,Retail & Commerce,832259,1,18,0
+TXN-00023,Gusau,Small-Scale Manufacturing,1718462,0,7,0
+TXN-00024,Talata Mafara,Agriculture & Agro-Allied,1820403,0,2,0
+TXN-00025,Talata Mafara,Retail & Commerce,226968,2,14,0
+TXN-00026,Bukkuyum,Agriculture & Agro-Allied,2204214,0,5,0
+TXN-00027,Gusau,Transportation,785122,1,18,0
+TXN-00028,Kaura Namoda,Small-Scale Manufacturing,1326485,0,11,0
+TXN-00029,Kaura Namoda,Agriculture & Agro-Allied,556995,0,10,0
+TXN-00030,Gusau,Transportation,2235454,2,11,1
+TXN-00031,Kaura Namoda,Agriculture & Agro-Allied,2117790,2,2,1
+TXN-00032,Gusau,Retail & Commerce,2122723,2,15,1
+TXN-00033,Gusau,Retail & Commerce,1083224,0,7,0
+TXN-00034,Zurmi,Small-Scale Manufacturing,615635,2,9,1
+TXN-00035,Zurmi,Retail & Commerce,577409,2,5,0
+TXN-00036,Bukkuyum,Retail & Commerce,2230945,5,7,1
+TXN-00037,Gusau,Agriculture & Agro-Allied,1651028,1,20,0
+TXN-00038,Gusau,Agriculture & Agro-Allied,337635,2,2,0
+TXN-00039,Bakura,Agriculture & Agro-Allied,633510,1,3,0
+TXN-00040,Talata Mafara,Agriculture & Agro-Allied,578036,1,2,0
+TXN-00041,Gusau,Hospitality & Services,1649417,3,21,0
+TXN-00042,Talata Mafara,Retail & Commerce,634668,2,22,1
+TXN-00043,Gusau,Retail & Commerce,2191483,0,23,1
+TXN-00044,Gummi,Agriculture & Agro-Allied,801393,0,19,0
+TXN-00045,Gusau,Hospitality & Services,1743481,3,4,1
+TXN-00046,Bakura,Transportation,875992,1,24,0
+TXN-00047,Gusau,Agriculture & Agro-Allied,650198,1,20,1
+TXN-00048,Kaura Namoda,Transportation,447891,0,7,0
+TXN-00049,Kaura Namoda,Retail & Commerce,550201,1,22,0
+TXN-00050,Gusau,Agriculture & Agro-Allied,1091566,1,7,0
+TXN-00051,Zurmi,Retail & Commerce,1094863,1,17,0
+TXN-00052,Bukkuyum,Retail & Commerce,1108644,0,19,1
+TXN-00053,Zurmi,Agriculture & Agro-Allied,937198,1,22,0
+TXN-00054,Gummi,Small-Scale Manufacturing,1669282,2,16,1
+TXN-00055,Kaura Namoda,Hospitality & Services,1885295,0,3,0
+TXN-00056,Zurmi,Transportation,1120913,3,15,0
+TXN-00057,Gusau,Retail & Commerce,297667,1,14,0
+TXN-00058,Gusau,Retail & Commerce,706521,2,15,1
+TXN-00059,Gusau,Transportation,937099,0,14,0
+TXN-00060,Gusau,Retail & Commerce,1450791,0,7,0
+TXN-00061,Talata Mafara,Agriculture & Agro-Allied,1467231,0,3,0
+TXN-00062,Gusau,Retail & Commerce,1581181,2,17,1
+TXN-00063,Gummi,Hospitality & Services,457974,2,10,0
+TXN-00064,Talata Mafara,Retail & Commerce,183248,1,15,0
+TXN-00065,Gusau,Agriculture & Agro-Allied,1201882,2,6,0
+TXN-00066,Kaura Namoda,Transportation,2311878,0,17,1
+TXN-00067,Gusau,Agriculture & Agro-Allied,994131,0,17,0
+TXN-00068,Bukkuyum,Agriculture & Agro-Allied,750270,0,14,0
+TXN-00069,Gusau,Agriculture & Agro-Allied,140417,2,24,0
+TXN-00070,Zurmi,Retail & Commerce,478638,2,18,0
+TXN-00071,Bukkuyum,Transportation,1110560,1,5,1
+TXN-00072,Gusau,Retail & Commerce,1187888,1,8,0
+TXN-00073,Gusau,Agriculture & Agro-Allied,242458,0,7,1
+TXN-00074,Bukkuyum,Hospitality & Services,574608,1,23,1
+TXN-00075,Bakura,Hospitality & Services,1585963,3,4,1
+TXN-00076,Bukkuyum,Hospitality & Services,1973782,3,18,1
+TXN-00077,Bukkuyum,Agriculture & Agro-Allied,465105,2,5,1
+TXN-00078,Gusau,Retail & Commerce,1458791,0,16,0
+TXN-00079,Talata Mafara,Small-Scale Manufacturing,1353659,0,14,0
+TXN-00080,Gusau,Transportation,2026850,0,19,0
+TXN-00081,Gummi,Agriculture & Agro-Allied,2188929,1,14,1
+TXN-00082,Bakura,Agriculture & Agro-Allied,96250,0,9,0
+TXN-00083,Gusau,Retail & Commerce,941372,1,6,0
+TXN-00084,Gusau,Small-Scale Manufacturing,1400850,1,17,0
+TXN-00085,Gusau,Retail & Commerce,525147,3,19,0
+TXN-00086,Gusau,Retail & Commerce,1803282,1,12,1
+TXN-00087,Bukkuyum,Agriculture & Agro-Allied,2162368,0,4,0
+TXN-00088,Bakura,Transportation,2493445,0,16,1
+TXN-00089,Gummi,Hospitality & Services,926336,1,11,0
+TXN-00090,Talata Mafara,Retail & Commerce,2292433,1,22,1
+TXN-00091,Gusau,Transportation,753803,2,4,0
+TXN-00092,Bakura,Small-Scale Manufacturing,1637893,1,17,0
+TXN-00093,Bukkuyum,Agriculture & Agro-Allied,1559405,2,8,0
+TXN-00094,Kaura Namoda,Retail & Commerce,784803,0,14,0
+TXN-00095,Bukkuyum,Agriculture & Agro-Allied,2335221,2,2,0
+TXN-00096,Talata Mafara,Transportation,164456,0,11,0
+TXN-00097,Kaura Namoda,Retail & Commerce,906841,2,11,1
+TXN-00098,Talata Mafara,Retail & Commerce,1468060,1,24,1
+TXN-00099,Gusau,Transportation,83783,1,22,0
+TXN-00100,Gusau,Retail & Commerce,84152,2,24,1
+TXN-00101,Gusau,Small-Scale Manufacturing,494718,3,6,1
+TXN-00102,Bakura,Retail & Commerce,1651956,2,21,0
+TXN-00103,Gusau,Agriculture & Agro-Allied,198725,0,21,0
+TXN-00104,Kaura Namoda,Transportation,541215,1,14,0
+TXN-00105,Gummi,Transportation,1853500,2,10,1
+TXN-00106,Gusau,Retail & Commerce,2318693,2,8,1
+TXN-00107,Talata Mafara,Hospitality & Services,958017,0,7,0
+TXN-00108,Bukkuyum,Small-Scale Manufacturing,371898,1,8,0
+TXN-00109,Gusau,Agriculture & Agro-Allied,735338,1,8,0
+TXN-00110,Gusau,Small-Scale Manufacturing,2190321,1,23,1
+TXN-00111,Gusau,Agriculture & Agro-Allied,104745,0,2,0
+TXN-00112,Gusau,Agriculture & Agro-Allied,1733032,2,16,1
+TXN-00113,Zurmi,Agriculture & Agro-Allied,688273,1,9,0
+TXN-00114,Bukkuyum,Hospitality & Services,1088347,0,13,0
+TXN-00115,Bakura,Transportation,1810328,2,23,0
+TXN-00116,Gummi,Agriculture & Agro-Allied,2168219,1,12,1
+TXN-00117,Bukkuyum,Retail & Commerce,2198185,1,22,0
+TXN-00118,Gusau,Retail & Commerce,95256,1,17,0
+TXN-00119,Gummi,Agriculture & Agro-Allied,2386607,3,2,1
+TXN-00120,Kaura Namoda,Hospitality & Services,552264,1,13,0
+TXN-00121,Bukkuyum,Hospitality & Services,989695,1,1,0
+TXN-00122,Gummi,Retail & Commerce,2233955,2,19,0
+TXN-00123,Gusau,Small-Scale Manufacturing,1302390,1,11,0
+TXN-00124,Gusau,Retail & Commerce,2265995,0,5,1
+TXN-00125,Gusau,Small-Scale Manufacturing,529809,0,1,0
+TXN-00126,Talata Mafara,Transportation,1311179,1,20,0
+TXN-00127,Bukkuyum,Retail & Commerce,1817413,0,13,0
+TXN-00128,Gummi,Agriculture & Agro-Allied,194282,2,8,0
+TXN-00129,Gusau,Hospitality & Services,2021277,1,6,0
+TXN-00130,Kaura Namoda,Retail & Commerce,1867793,2,17,0
+TXN-00131,Talata Mafara,Agriculture & Agro-Allied,1402206,0,12,0
+TXN-00132,Gusau,Agriculture & Agro-Allied,994740,2,1,1
+TXN-00133,Gusau,Retail & Commerce,1952716,1,3,1
+TXN-00134,Gusau,Retail & Commerce,1210038,1,14,0
+TXN-00135,Zurmi,Transportation,1246311,3,8,0
+TXN-00136,Gusau,Hospitality & Services,1978084,4,11,1
+TXN-00137,Kaura Namoda,Agriculture & Agro-Allied,299737,3,14,1
+TXN-00138,Bakura,Transportation,192157,2,8,0
+TXN-00139,Talata Mafara,Agriculture & Agro-Allied,1450465,1,3,0
+TXN-00140,Zurmi,Hospitality & Services,2337319,0,7,0
+TXN-00141,Zurmi,Hospitality & Services,643805,2,19,0
+TXN-00142,Gusau,Retail & Commerce,1775089,0,4,0
+TXN-00143,Talata Mafara,Transportation,1234895,1,16,0
+TXN-00144,Gusau,Retail & Commerce,1512603,0,13,1
+TXN-00145,Gusau,Retail & Commerce,1325029,0,20,0
+TXN-00146,Gusau,Hospitality & Services,186645,3,19,0
+TXN-00147,Kaura Namoda,Retail & Commerce,1092092,0,5,0
+TXN-00148,Kaura Namoda,Retail & Commerce,1702131,1,23,1
+TXN-00149,Gusau,Retail & Commerce,1236837,1,5,0
+TXN-00150,Gusau,Hospitality & Services,392221,2,20,1
+TXN-00151,Gummi,Retail & Commerce,2485919,1,24,0
+TXN-00152,Gusau,Agriculture & Agro-Allied,1229580,1,4,1
+TXN-00153,Gusau,Transportation,103687,2,2,0
+TXN-00154,Talata Mafara,Hospitality & Services,904744,2,13,0
+TXN-00155,Zurmi,Agriculture & Agro-Allied,1206191,1,16,0
+TXN-00156,Gusau,Agriculture & Agro-Allied,1029091,4,22,1
+TXN-00157,Bakura,Agriculture & Agro-Allied,654453,1,2,0
+TXN-00158,Bukkuyum,Retail & Commerce,632111,1,19,0
+TXN-00159,Gusau,Retail & Commerce,2089660,0,17,0
+TXN-00160,Bukkuyum,Transportation,2069450,3,5,0
+TXN-00161,Talata Mafara,Transportation,556554,0,18,0
+TXN-00162,Bakura,Retail & Commerce,2021140,0,23,1
+TXN-00163,Bakura,Retail & Commerce,2101789,1,21,0
+TXN-00164,Kaura Namoda,Hospitality & Services,1177109,1,18,0
+TXN-00165,Gusau,Retail & Commerce,290011,1,8,1
+TXN-00166,Gummi,Small-Scale Manufacturing,1287903,1,15,1
+TXN-00167,Gusau,Retail & Commerce,1603744,1,13,1
+TXN-00168,Gusau,Agriculture & Agro-Allied,122684,2,13,0
+TXN-00169,Gusau,Transportation,1548710,2,16,1
+TXN-00170,Kaura Namoda,Retail & Commerce,1838220,1,22,0
+TXN-00171,Bakura,Transportation,1315197,2,20,0
+TXN-00172,Gusau,Agriculture & Agro-Allied,1880288,3,13,1
+TXN-00173,Kaura Namoda,Agriculture & Agro-Allied,2041336,2,20,0
+TXN-00174,Gusau,Hospitality & Services,1891646,2,2,0
+TXN-00175,Bakura,Agriculture & Agro-Allied,1656241,3,3,1
+TXN-00176,Gusau,Hospitality & Services,1646246,1,15,0
+TXN-00177,Bakura,Agriculture & Agro-Allied,1869239,1,23,1
+TXN-00178,Talata Mafara,Retail & Commerce,761423,2,19,0
+TXN-00179,Zurmi,Transportation,2300618,0,13,0
+TXN-00180,Gusau,Retail & Commerce,284318,0,5,0
+TXN-00181,Gusau,Retail & Commerce,181936,1,22,0
+TXN-00182,Gusau,Agriculture & Agro-Allied,1007726,0,6,1
+TXN-00183,Zurmi,Agriculture & Agro-Allied,2029746,1,14,0
+TXN-00184,Gummi,Retail & Commerce,697952,0,4,0
+TXN-00185,Gusau,Transportation,918277,1,22,0
+TXN-00186,Bakura,Small-Scale Manufacturing,1346573,1,19,1
+TXN-00187,Bukkuyum,Hospitality & Services,1168166,2,23,1
+TXN-00188,Kaura Namoda,Transportation,2475767,0,7,0
+TXN-00189,Kaura Namoda,Transportation,1614371,0,4,0
+TXN-00190,Gusau,Transportation,1404018,2,2,1
+TXN-00191,Gusau,Agriculture & Agro-Allied,1554900,1,7,0
+TXN-00192,Gummi,Small-Scale Manufacturing,1671788,2,3,0
+TXN-00193,Gummi,Transportation,459925,1,15,0
+TXN-00194,Bakura,Retail & Commerce,241896,1,1,0
+TXN-00195,Gusau,Agriculture & Agro-Allied,1139118,1,2,0
+TXN-00196,Gusau,Retail & Commerce,463461,2,10,0
+TXN-00197,Bukkuyum,Retail & Commerce,1133329,1,16,1
+TXN-00198,Gummi,Hospitality & Services,2430612,0,15,0
+TXN-00199,Gummi,Retail & Commerce,283979,0,24,0
+TXN-00200,Bukkuyum,Retail & Commerce,658986,1,15,1
+TXN-00201,Bakura,Small-Scale Manufacturing,328104,0,14,0
+TXN-00202,Gusau,Agriculture & Agro-Allied,1129367,4,22,0
+TXN-00203,Gusau,Retail & Commerce,1075270,0,14,0
+TXN-00204,Gummi,Agriculture & Agro-Allied,2434512,3,6,1
+TXN-00205,Kaura Namoda,Transportation,2048547,1,14,1
+TXN-00206,Gusau,Small-Scale Manufacturing,1425147,0,17,0
+TXN-00207,Gusau,Agriculture & Agro-Allied,647578,0,18,0
+TXN-00208,Bakura,Hospitality & Services,185150,4,20,1
+TXN-00209,Gusau,Agriculture & Agro-Allied,1045893,0,19,0
+TXN-00210,Gusau,Small-Scale Manufacturing,1889050,0,17,0
+TXN-00211,Kaura Namoda,Transportation,1690975,1,16,1
+TXN-00212,Bakura,Hospitality & Services,1990066,1,8,0
+TXN-00213,Bakura,Agriculture & Agro-Allied,393150,0,7,0
+TXN-00214,Gusau,Small-Scale Manufacturing,1596064,0,20,0
+TXN-00215,Bakura,Transportation,829091,2,12,0
+TXN-00216,Gusau,Retail & Commerce,2416789,2,9,0
+TXN-00217,Gusau,Hospitality & Services,2216791,0,14,0
+TXN-00218,Bukkuyum,Agriculture & Agro-Allied,1415103,2,20,1
+TXN-00219,Bakura,Hospitality & Services,1756930,1,1,0
+TXN-00220,Gummi,Agriculture & Agro-Allied,1823216,3,10,1
+TXN-00221,Bakura,Transportation,2456530,0,17,1
+TXN-00222,Kaura Namoda,Retail & Commerce,1014795,0,17,0
+TXN-00223,Gusau,Agriculture & Agro-Allied,1751538,0,17,0
+TXN-00224,Talata Mafara,Agriculture & Agro-Allied,1628458,0,4,0
+TXN-00225,Gusau,Agriculture & Agro-Allied,1859771,2,17,1
+TXN-00226,Gusau,Retail & Commerce,319515,1,18,0
+TXN-00227,Zurmi,Retail & Commerce,1670179,0,20,1
+TXN-00228,Talata Mafara,Retail & Commerce,1837500,0,23,0
+TXN-00229,Gummi,Agriculture & Agro-Allied,2379672,1,2,1
+TXN-00230,Bakura,Agriculture & Agro-Allied,1702390,1,8,1
+TXN-00231,Bukkuyum,Transportation,721986,1,13,0
+TXN-00232,Kaura Namoda,Agriculture & Agro-Allied,2384482,0,23,0
+TXN-00233,Kaura Namoda,Small-Scale Manufacturing,187900,0,22,0
+TXN-00234,Talata Mafara,Hospitality & Services,369658,1,20,1
+TXN-00235,Gusau,Transportation,550364,2,22,0
+TXN-00236,Bukkuyum,Retail & Commerce,1334283,1,15,0
+TXN-00237,Gusau,Hospitality & Services,1603493,0,20,0
+TXN-00238,Gusau,Agriculture & Agro-Allied,1553061,1,23,0
+TXN-00239,Bakura,Agriculture & Agro-Allied,563066,0,9,0
+TXN-00240,Gusau,Agriculture & Agro-Allied,1970967,0,3,1
+TXN-00241,Zurmi,Transportation,2411331,1,3,0
+TXN-00242,Zurmi,Agriculture & Agro-Allied,1208343,2,2,1
+TXN-00243,Gummi,Retail & Commerce,591529,0,1,0
+TXN-00244,Talata Mafara,Small-Scale Manufacturing,204226,0,14,0
+TXN-00245,Gusau,Hospitality & Services,1012454,4,17,1
+TXN-00246,Zurmi,Retail & Commerce,2203548,0,13,1
+TXN-00247,Talata Mafara,Agriculture & Agro-Allied,1591019,0,19,1
+TXN-00248,Zurmi,Hospitality & Services,168920,1,23,0
+TXN-00249,Zurmi,Retail & Commerce,456547,0,15,0
+TXN-00250,Gummi,Agriculture & Agro-Allied,2342151,1,14,0
+TXN-00251,Gusau,Agriculture & Agro-Allied,1709090,2,2,1
+TXN-00252,Talata Mafara,Small-Scale Manufacturing,1707583,1,7,1
+TXN-00253,Gummi,Transportation,113014,1,17,0
+TXN-00254,Gusau,Hospitality & Services,2332702,0,18,0
+TXN-00255,Gusau,Hospitality & Services,1766190,1,6,1
+TXN-00256,Kaura Namoda,Retail & Commerce,1285382,1,21,0
+TXN-00257,Zurmi,Retail & Commerce,1520413,2,8,0
+TXN-00258,Bakura,Retail & Commerce,1083994,1,2,1
+TXN-00259,Kaura Namoda,Retail & Commerce,388585,0,1,0
+TXN-00260,Gusau,Retail & Commerce,2469493,2,16,0
+TXN-00261,Kaura Namoda,Transportation,406778,1,7,0
+TXN-00262,Zurmi,Retail & Commerce,1347682,1,22,0
+TXN-00263,Gusau,Hospitality & Services,1591037,2,24,0
+TXN-00264,Kaura Namoda,Retail & Commerce,710197,2,11,1
+TXN-00265,Gummi,Retail & Commerce,1581817,0,15,0
+TXN-00266,Bukkuyum,Retail & Commerce,2087312,2,13,1
+TXN-00267,Bakura,Retail & Commerce,2065074,4,24,1
+TXN-00268,Bakura,Transportation,1570871,3,2,0
+TXN-00269,Talata Mafara,Agriculture & Agro-Allied,575754,0,14,0
+TXN-00270,Gusau,Retail & Commerce,396030,2,24,1
+TXN-00271,Bukkuyum,Agriculture & Agro-Allied,2475207,1,6,0
+TXN-00272,Bukkuyum,Retail & Commerce,1852502,1,9,0
+TXN-00273,Gummi,Retail & Commerce,1512538,1,7,0
+TXN-00274,Gummi,Transportation,2235574,3,18,1
+TXN-00275,Kaura Namoda,Small-Scale Manufacturing,1601676,0,24,1
+TXN-00276,Kaura Namoda,Retail & Commerce,2076819,1,9,1
+TXN-00277,Bukkuyum,Transportation,2124520,4,23,0
+TXN-00278,Bakura,Retail & Commerce,1065691,1,4,0
+TXN-00279,Bakura,Retail & Commerce,2482665,2,9,0
+TXN-00280,Bukkuyum,Agriculture & Agro-Allied,1719771,2,4,0
+TXN-00281,Gummi,Agriculture & Agro-Allied,1008378,0,12,0
+TXN-00282,Gusau,Retail & Commerce,782722,2,4,0
+TXN-00283,Talata Mafara,Retail & Commerce,936388,3,24,0
+TXN-00284,Gusau,Agriculture & Agro-Allied,1841396,0,20,1
+TXN-00285,Kaura Namoda,Agriculture & Agro-Allied,1880957,2,14,0
+TXN-00286,Gusau,Agriculture & Agro-Allied,1525159,2,24,1
+TXN-00287,Talata Mafara,Small-Scale Manufacturing,1250847,2,24,1
+TXN-00288,Kaura Namoda,Retail & Commerce,1084104,2,7,0
+TXN-00289,Gusau,Retail & Commerce,894156,0,13,0
+TXN-00290,Kaura Namoda,Agriculture & Agro-Allied,1266053,1,22,1
+TXN-00291,Gusau,Retail & Commerce,1327880,2,8,0
+TXN-00292,Gusau,Agriculture & Agro-Allied,865363,1,23,1
+TXN-00293,Gummi,Agriculture & Agro-Allied,1894298,1,5,0
+TXN-00294,Talata Mafara,Retail & Commerce,1744000,1,12,0
+TXN-00295,Gusau,Agriculture & Agro-Allied,1440598,1,13,0
+TXN-00296,Kaura Namoda,Agriculture & Agro-Allied,402621,2,20,0
+TXN-00297,Bukkuyum,Agriculture & Agro-Allied,781658,0,14,0
+TXN-00298,Gusau,Agriculture & Agro-Allied,735493,3,18,1
+TXN-00299,Bakura,Agriculture & Agro-Allied,1468006,0,24,0
+TXN-00300,Gusau,Retail & Commerce,2449771,2,20,1
+TXN-00301,Gusau,Hospitality & Services,1509096,1,4,0
+TXN-00302,Kaura Namoda,Retail & Commerce,2254725,0,21,1
+TXN-00303,Kaura Namoda,Retail & Commerce,1931554,2,18,1
+TXN-00304,Bakura,Agriculture & Agro-Allied,2416304,0,7,0
+TXN-00305,Bukkuyum,Small-Scale Manufacturing,360435,0,15,1
+TXN-00306,Zurmi,Retail & Commerce,208477,2,21,1
+TXN-00307,Kaura Namoda,Agriculture & Agro-Allied,2445682,0,6,1
+TXN-00308,Gusau,Retail & Commerce,1250475,1,16,0
+TXN-00309,Bukkuyum,Agriculture & Agro-Allied,2487839,0,20,0
+TXN-00310,Gusau,Retail & Commerce,1065197,1,24,1
+TXN-00311,Talata Mafara,Retail & Commerce,1396652,0,8,0
+TXN-00312,Gusau,Hospitality & Services,2030407,3,21,1
+TXN-00313,Gusau,Retail & Commerce,1998888,0,16,0
+TXN-00314,Zurmi,Transportation,851125,0,22,0
+TXN-00315,Gummi,Small-Scale Manufacturing,2436537,3,16,1
+TXN-00316,Bakura,Agriculture & Agro-Allied,2242942,1,3,1
+TXN-00317,Talata Mafara,Agriculture & Agro-Allied,983044,3,17,0
+TXN-00318,Gusau,Retail & Commerce,1818693,2,9,1
+TXN-00319,Gusau,Retail & Commerce,2041161,0,3,1
+TXN-00320,Gusau,Retail & Commerce,1360015,1,20,0
+TXN-00321,Kaura Namoda,Small-Scale Manufacturing,1109926,1,7,0
+TXN-00322,Bakura,Transportation,368953,1,18,1
+TXN-00323,Bakura,Retail & Commerce,151894,0,12,0
+TXN-00324,Gusau,Retail & Commerce,1458277,2,19,0
+TXN-00325,Zurmi,Hospitality & Services,2044449,2,16,1
+TXN-00326,Bukkuyum,Small-Scale Manufacturing,1654592,0,22,0
+TXN-00327,Kaura Namoda,Hospitality & Services,329720,0,24,0
+TXN-00328,Kaura Namoda,Agriculture & Agro-Allied,1098966,5,17,1
+TXN-00329,Talata Mafara,Retail & Commerce,456245,0,20,0
+TXN-00330,Gusau,Agriculture & Agro-Allied,72490,0,15,1
+TXN-00331,Talata Mafara,Agriculture & Agro-Allied,882307,1,1,1
+TXN-00332,Bukkuyum,Agriculture & Agro-Allied,2139632,2,2,1
+TXN-00333,Gusau,Retail & Commerce,1890875,1,8,1
+TXN-00334,Gusau,Transportation,655108,2,22,0
+TXN-00335,Gusau,Agriculture & Agro-Allied,2418417,1,2,0
+TXN-00336,Gusau,Retail & Commerce,51539,1,19,0
+TXN-00337,Gummi,Retail & Commerce,362579,2,9,0
+TXN-00338,Bakura,Retail & Commerce,2211117,1,9,1
+TXN-00339,Talata Mafara,Agriculture & Agro-Allied,1613825,1,13,0
+TXN-00340,Gusau,Retail & Commerce,1196375,1,6,0
+TXN-00341,Talata Mafara,Transportation,1574631,1,15,1
+TXN-00342,Talata Mafara,Agriculture & Agro-Allied,1241890,1,19,0
+TXN-00343,Gusau,Agriculture & Agro-Allied,2395251,2,21,0
+TXN-00344,Talata Mafara,Retail & Commerce,1080065,0,15,0
+TXN-00345,Talata Mafara,Small-Scale Manufacturing,817610,1,18,0
+TXN-00346,Kaura Namoda,Transportation,1857642,4,7,0
+TXN-00347,Bakura,Transportation,956395,0,11,0
+TXN-00348,Gusau,Retail & Commerce,1885515,0,8,0
+TXN-00349,Talata Mafara,Retail & Commerce,386430,1,6,0
+TXN-00350,Bakura,Agriculture & Agro-Allied,712714,2,8,0
+TXN-00351,Kaura Namoda,Retail & Commerce,1994606,4,2,1
+TXN-00352,Gummi,Small-Scale Manufacturing,660724,2,19,0
+TXN-00353,Bakura,Retail & Commerce,2357600,0,16,0
+TXN-00354,Gusau,Hospitality & Services,1020278,0,7,0
+TXN-00355,Gusau,Transportation,545919,1,10,0
+TXN-00356,Bakura,Agriculture & Agro-Allied,1127209,0,12,0
+TXN-00357,Gusau,Small-Scale Manufacturing,860927,1,17,0
+TXN-00358,Kaura Namoda,Agriculture & Agro-Allied,2359608,3,7,0
+TXN-00359,Zurmi,Retail & Commerce,1397203,0,22,1
+TXN-00360,Kaura Namoda,Agriculture & Agro-Allied,516589,3,8,0
+TXN-00361,Talata Mafara,Agriculture & Agro-Allied,2443365,1,7,1
+TXN-00362,Bakura,Retail & Commerce,1237018,0,4,0
+TXN-00363,Talata Mafara,Agriculture & Agro-Allied,1742737,1,3,0
+TXN-00364,Kaura Namoda,Retail & Commerce,953275,0,19,0
+TXN-00365,Zurmi,Retail & Commerce,2317357,1,15,1
+TXN-00366,Talata Mafara,Agriculture & Agro-Allied,1849971,2,4,1
+TXN-00367,Zurmi,Agriculture & Agro-Allied,1194337,1,9,0
+TXN-00368,Gummi,Retail & Commerce,1474473,1,13,1
+TXN-00369,Gusau,Retail & Commerce,1984790,4,18,1
+TXN-00370,Gusau,Transportation,1434704,4,21,1
+TXN-00371,Gusau,Transportation,623881,1,16,0
+TXN-00372,Gusau,Hospitality & Services,1960617,1,1,0
+TXN-00373,Gusau,Transportation,1068454,1,4,0
+TXN-00374,Bakura,Retail & Commerce,2152361,0,18,0
+TXN-00375,Gusau,Transportation,1749564,2,8,1
+TXN-00376,Gusau,Agriculture & Agro-Allied,1709461,2,20,1
+TXN-00377,Gummi,Retail & Commerce,1108503,0,16,0
+TXN-00378,Gusau,Transportation,691621,1,21,0
+TXN-00379,Bukkuyum,Retail & Commerce,2485678,1,11,1
+TXN-00380,Gusau,Transportation,2286157,1,20,0
+TXN-00381,Gusau,Hospitality & Services,1726644,0,21,0
+TXN-00382,Bakura,Hospitality & Services,1663560,1,21,1
+TXN-00383,Bakura,Small-Scale Manufacturing,2343673,0,21,0
+TXN-00384,Gummi,Retail & Commerce,499764,1,19,1
+TXN-00385,Bukkuyum,Retail & Commerce,1499589,0,23,1
+TXN-00386,Bukkuyum,Retail & Commerce,266486,5,19,1
+TXN-00387,Gusau,Retail & Commerce,476888,3,18,1
+TXN-00388,Gusau,Retail & Commerce,885988,0,19,0
+TXN-00389,Bukkuyum,Transportation,960155,3,11,0
+TXN-00390,Bukkuyum,Transportation,600428,0,3,0
+TXN-00391,Zurmi,Retail & Commerce,313328,0,8,0
+TXN-00392,Talata Mafara,Agriculture & Agro-Allied,2139706,1,20,1
+TXN-00393,Talata Mafara,Retail & Commerce,1526285,0,19,0
+TXN-00394,Bukkuyum,Agriculture & Agro-Allied,1778782,1,10,1
+TXN-00395,Gusau,Hospitality & Services,161361,2,16,1
+TXN-00396,Zurmi,Retail & Commerce,1776131,3,5,1
+TXN-00397,Gummi,Agriculture & Agro-Allied,447172,0,20,0
+TXN-00398,Talata Mafara,Agriculture & Agro-Allied,1115131,0,9,0
+TXN-00399,Bukkuyum,Retail & Commerce,664673,2,8,0
+TXN-00400,Bukkuyum,Retail & Commerce,305658,1,11,0
+TXN-00401,Gusau,Retail & Commerce,1540641,2,16,0
+TXN-00402,Gummi,Agriculture & Agro-Allied,1780283,1,7,0
+TXN-00403,Kaura Namoda,Retail & Commerce,804085,1,15,0
+TXN-00404,Gummi,Retail & Commerce,2250996,0,24,0
+TXN-00405,Gusau,Transportation,1189897,1,21,0
+TXN-00406,Gummi,Retail & Commerce,885488,2,20,0
+TXN-00407,Talata Mafara,Retail & Commerce,1817787,2,23,1
+TXN-00408,Gusau,Agriculture & Agro-Allied,2245386,0,17,0
+TXN-00409,Gummi,Small-Scale Manufacturing,801993,2,6,0
+TXN-00410,Gusau,Retail & Commerce,775571,1,15,0
+TXN-00411,Gusau,Transportation,878282,1,8,0
+TXN-00412,Zurmi,Agriculture & Agro-Allied,521761,1,7,1
+TXN-00413,Zurmi,Retail & Commerce,2471616,1,2,0
+TXN-00414,Kaura Namoda,Agriculture & Agro-Allied,1771793,1,13,0
+TXN-00415,Bakura,Retail & Commerce,1321209,0,23,0
+TXN-00416,Talata Mafara,Small-Scale Manufacturing,1019752,0,6,0
+TXN-00417,Gusau,Retail & Commerce,367942,1,5,0
+TXN-00418,Gusau,Agriculture & Agro-Allied,387462,2,20,0
+TXN-00419,Bakura,Agriculture & Agro-Allied,1464906,1,1,0
+TXN-00420,Bukkuyum,Retail & Commerce,400046,3,18,0
+TXN-00421,Bukkuyum,Agriculture & Agro-Allied,471773,1,15,1
+TXN-00422,Bukkuyum,Agriculture & Agro-Allied,2480630,1,23,0
+TXN-00423,Gusau,Transportation,418863,0,10,0
+TXN-00424,Talata Mafara,Retail & Commerce,1418328,2,3,0
+TXN-00425,Gusau,Agriculture & Agro-Allied,2254601,2,5,0
+TXN-00426,Kaura Namoda,Small-Scale Manufacturing,1201404,0,24,1
+TXN-00427,Talata Mafara,Agriculture & Agro-Allied,1225189,0,13,0
+TXN-00428,Gummi,Small-Scale Manufacturing,122095,0,8,0
+TXN-00429,Talata Mafara,Retail & Commerce,137593,2,22,0
+TXN-00430,Gusau,Hospitality & Services,741252,1,21,0
+TXN-00431,Gusau,Retail & Commerce,1437962,2,2,0
+TXN-00432,Bukkuyum,Hospitality & Services,952473,0,9,0
+TXN-00433,Kaura Namoda,Small-Scale Manufacturing,176202,2,17,1
+TXN-00434,Gusau,Agriculture & Agro-Allied,2224758,2,18,0
+TXN-00435,Gusau,Small-Scale Manufacturing,168542,0,13,1
+TXN-00436,Bakura,Retail & Commerce,1467158,0,1,0
+TXN-00437,Gusau,Retail & Commerce,1885932,1,12,1
+TXN-00438,Gummi,Retail & Commerce,1256126,1,20,1
+TXN-00439,Bakura,Retail & Commerce,1693906,1,20,0
+TXN-00440,Gusau,Agriculture & Agro-Allied,505433,1,21,0
+TXN-00441,Gusau,Retail & Commerce,674987,2,5,0
+TXN-00442,Zurmi,Retail & Commerce,140140,3,8,1
+TXN-00443,Talata Mafara,Transportation,1565554,1,15,0
+TXN-00444,Talata Mafara,Hospitality & Services,1634645,2,3,1
+TXN-00445,Bukkuyum,Retail & Commerce,1497307,2,6,1
+TXN-00446,Zurmi,Retail & Commerce,1478078,0,13,0
+TXN-00447,Zurmi,Agriculture & Agro-Allied,1396853,2,12,0
+TXN-00448,Bukkuyum,Agriculture & Agro-Allied,1196204,2,19,0
+TXN-00449,Talata Mafara,Agriculture & Agro-Allied,531799,3,18,0
+TXN-00450,Gusau,Retail & Commerce,1250118,1,24,0
+TXN-00451,Bukkuyum,Agriculture & Agro-Allied,2189826,1,1,1
+TXN-00452,Kaura Namoda,Small-Scale Manufacturing,2274724,0,7,0
+TXN-00453,Talata Mafara,Retail & Commerce,1848594,0,12,0
+TXN-00454,Gummi,Retail & Commerce,2439127,1,10,0
+TXN-00455,Gusau,Retail & Commerce,1945618,1,12,1
+TXN-00456,Talata Mafara,Agriculture & Agro-Allied,495935,0,11,0
+TXN-00457,Gusau,Retail & Commerce,1151627,1,4,0
+TXN-00458,Talata Mafara,Retail & Commerce,1301661,1,19,0
+TXN-00459,Gusau,Retail & Commerce,1164100,2,6,0
+TXN-00460,Gusau,Retail & Commerce,2415766,1,9,0
+TXN-00461,Gusau,Small-Scale Manufacturing,1559390,0,20,0
+TXN-00462,Bakura,Hospitality & Services,2057878,1,10,0
+TXN-00463,Bukkuyum,Retail & Commerce,567733,0,5,0
+TXN-00464,Kaura Namoda,Retail & Commerce,365617,0,13,0
+TXN-00465,Zurmi,Retail & Commerce,1854053,0,9,0
+TXN-00466,Talata Mafara,Agriculture & Agro-Allied,1143015,2,2,1
+TXN-00467,Gusau,Retail & Commerce,2137024,1,18,0
+TXN-00468,Gummi,Agriculture & Agro-Allied,326452,1,21,0
+TXN-00469,Gusau,Retail & Commerce,141563,1,1,0
+TXN-00470,Zurmi,Retail & Commerce,1395801,1,24,0
+TXN-00471,Gusau,Agriculture & Agro-Allied,1542175,1,21,1
+TXN-00472,Zurmi,Small-Scale Manufacturing,1632701,1,12,1
+TXN-00473,Gusau,Small-Scale Manufacturing,809495,1,10,0
+TXN-00474,Gummi,Transportation,1740992,3,2,1
+TXN-00475,Kaura Namoda,Retail & Commerce,217896,1,9,0
+TXN-00476,Zurmi,Hospitality & Services,1787009,1,2,0
+TXN-00477,Gusau,Agriculture & Agro-Allied,1067497,2,23,0
+TXN-00478,Kaura Namoda,Transportation,80063,1,24,0
+TXN-00479,Zurmi,Agriculture & Agro-Allied,304371,3,22,0
+TXN-00480,Kaura Namoda,Transportation,2249318,1,14,1
+TXN-00481,Bakura,Agriculture & Agro-Allied,1113082,0,11,0
+TXN-00482,Bakura,Hospitality & Services,1323989,3,23,1
+TXN-00483,Talata Mafara,Small-Scale Manufacturing,1212180,0,11,0
+TXN-00484,Bakura,Agriculture & Agro-Allied,470888,1,17,1
+TXN-00485,Kaura Namoda,Retail & Commerce,1413133,0,4,0
+TXN-00486,Gummi,Small-Scale Manufacturing,1353692,1,13,1
+TXN-00487,Gusau,Retail & Commerce,1425786,2,7,0
+TXN-00488,Gusau,Hospitality & Services,240285,0,16,0
+TXN-00489,Zurmi,Retail & Commerce,2261130,1,1,0
+TXN-00490,Gummi,Retail & Commerce,1257739,3,13,0
+TXN-00491,Talata Mafara,Agriculture & Agro-Allied,2251016,2,1,1
+TXN-00492,Bakura,Agriculture & Agro-Allied,986114,2,11,0
+TXN-00493,Gusau,Transportation,444295,0,6,0
+TXN-00494,Gusau,Retail & Commerce,1538543,1,20,0
+TXN-00495,Talata Mafara,Retail & Commerce,1708990,0,3,0
+TXN-00496,Talata Mafara,Retail & Commerce,1784887,2,12,1
+TXN-00497,Kaura Namoda,Retail & Commerce,2487587,2,5,1
+TXN-00498,Gusau,Hospitality & Services,2272811,2,9,1
+TXN-00499,Zurmi,Small-Scale Manufacturing,1813808,1,12,0
+TXN-00500,Zurmi,Retail & Commerce,1443453,0,10,0
+TXN-00501,Bakura,Hospitality & Services,1161288,0,19,0
+TXN-00502,Kaura Namoda,Transportation,1821503,2,5,0
+TXN-00503,Gusau,Retail & Commerce,175849,1,5,0
+TXN-00504,Bukkuyum,Small-Scale Manufacturing,305493,0,9,0
+TXN-00505,Bakura,Agriculture & Agro-Allied,654111,0,20,0
+TXN-00506,Gusau,Agriculture & Agro-Allied,1202791,0,17,0
+TXN-00507,Gummi,Hospitality & Services,2179382,0,10,0
+TXN-00508,Gummi,Retail & Commerce,2493869,3,21,1
+TXN-00509,Zurmi,Hospitality & Services,797948,1,1,0
+TXN-00510,Bukkuyum,Hospitality & Services,2449940,0,22,1
+TXN-00511,Kaura Namoda,Agriculture & Agro-Allied,1278312,2,16,1
+TXN-00512,Talata Mafara,Hospitality & Services,881635,1,15,0
+TXN-00513,Zurmi,Retail & Commerce,1427397,3,23,0
+TXN-00514,Gummi,Retail & Commerce,1517217,1,17,1
+TXN-00515,Gusau,Retail & Commerce,281414,1,20,0
+TXN-00516,Gusau,Small-Scale Manufacturing,306812,5,13,1
+TXN-00517,Talata Mafara,Agriculture & Agro-Allied,2113729,1,1,1
+TXN-00518,Bukkuyum,Retail & Commerce,2452110,1,8,1
+TXN-00519,Zurmi,Transportation,1693083,1,5,0
+TXN-00520,Gusau,Transportation,2065726,1,6,1
+TXN-00521,Kaura Namoda,Transportation,2318108,0,23,0
+TXN-00522,Talata Mafara,Agriculture & Agro-Allied,1456065,1,20,0
+TXN-00523,Zurmi,Agriculture & Agro-Allied,1460808,0,14,0
+TXN-00524,Gummi,Retail & Commerce,905754,0,22,0
+TXN-00525,Gummi,Hospitality & Services,71650,1,23,0
+TXN-00526,Talata Mafara,Agriculture & Agro-Allied,1454962,2,11,0
+TXN-00527,Talata Mafara,Agriculture & Agro-Allied,1923204,1,6,0
+TXN-00528,Gusau,Small-Scale Manufacturing,1269309,1,11,0
+TXN-00529,Gusau,Agriculture & Agro-Allied,2389189,0,13,0
+TXN-00530,Gummi,Small-Scale Manufacturing,256251,2,12,0
+TXN-00531,Bukkuyum,Transportation,2168194,0,22,1
+TXN-00532,Zurmi,Hospitality & Services,1875706,3,2,0
+TXN-00533,Zurmi,Agriculture & Agro-Allied,1028582,3,21,1
+TXN-00534,Kaura Namoda,Agriculture & Agro-Allied,368903,1,3,0
+TXN-00535,Bukkuyum,Transportation,1466693,0,23,0
+TXN-00536,Zurmi,Hospitality & Services,1929314,1,4,0
+TXN-00537,Gummi,Transportation,944801,1,17,0
+TXN-00538,Gusau,Agriculture & Agro-Allied,1774854,3,22,0
+TXN-00539,Talata Mafara,Transportation,864811,1,6,1
+TXN-00540,Gusau,Transportation,432811,0,7,0
+TXN-00541,Zurmi,Transportation,551691,2,15,0
+TXN-00542,Kaura Namoda,Transportation,1058314,0,11,0
+TXN-00543,Gusau,Hospitality & Services,264304,0,24,0
+TXN-00544,Bakura,Retail & Commerce,1767787,1,3,1
+TXN-00545,Kaura Namoda,Agriculture & Agro-Allied,2002634,1,6,0
+TXN-00546,Talata Mafara,Retail & Commerce,961612,1,2,0
+TXN-00547,Gusau,Agriculture & Agro-Allied,2461645,0,14,0
+TXN-00548,Bakura,Retail & Commerce,251904,3,9,0
+TXN-00549,Kaura Namoda,Retail & Commerce,761716,1,18,0
+TXN-00550,Bukkuyum,Agriculture & Agro-Allied,2152882,0,19,0
+TXN-00551,Kaura Namoda,Retail & Commerce,1505713,2,12,0
+TXN-00552,Gummi,Agriculture & Agro-Allied,1749660,2,13,0
+TXN-00553,Kaura Namoda,Hospitality & Services,1966541,1,12,0
+TXN-00554,Kaura Namoda,Small-Scale Manufacturing,395430,1,12,0
+TXN-00555,Gummi,Agriculture & Agro-Allied,878411,2,18,1
+TXN-00556,Talata Mafara,Small-Scale Manufacturing,1907845,0,9,0
+TXN-00557,Gusau,Retail & Commerce,1989983,1,17,0
+TXN-00558,Gusau,Agriculture & Agro-Allied,1619186,2,21,1
+TXN-00559,Bukkuyum,Agriculture & Agro-Allied,2168075,0,16,1
+TXN-00560,Bakura,Retail & Commerce,897405,1,17,1
+TXN-00561,Bakura,Transportation,1494679,1,21,1
+TXN-00562,Gusau,Transportation,2341947,1,24,0
+TXN-00563,Gusau,Agriculture & Agro-Allied,283462,2,8,0
+TXN-00564,Gusau,Agriculture & Agro-Allied,2198565,1,11,1
+TXN-00565,Talata Mafara,Retail & Commerce,2018921,1,24,1
+TXN-00566,Kaura Namoda,Agriculture & Agro-Allied,1432296,3,2,1
+TXN-00567,Talata Mafara,Agriculture & Agro-Allied,1371024,2,8,0
+TXN-00568,Talata Mafara,Agriculture & Agro-Allied,460226,1,12,0
+TXN-00569,Gummi,Hospitality & Services,1225615,0,21,0
+TXN-00570,Gusau,Small-Scale Manufacturing,1814694,0,1,1
+TXN-00571,Kaura Namoda,Retail & Commerce,1785594,0,23,0
+TXN-00572,Bukkuyum,Small-Scale Manufacturing,2327226,1,13,1
+TXN-00573,Talata Mafara,Retail & Commerce,1857254,0,22,0
+TXN-00574,Bakura,Retail & Commerce,706735,0,21,1
+TXN-00575,Gummi,Agriculture & Agro-Allied,1722349,3,17,0
+TXN-00576,Zurmi,Retail & Commerce,858524,1,14,0
+TXN-00577,Gusau,Small-Scale Manufacturing,181562,0,14,1
+TXN-00578,Zurmi,Retail & Commerce,1102305,0,16,0
+TXN-00579,Talata Mafara,Retail & Commerce,1759910,0,17,1
+TXN-00580,Gusau,Retail & Commerce,1445936,2,6,1
+TXN-00581,Talata Mafara,Agriculture & Agro-Allied,308360,2,7,1
+TXN-00582,Zurmi,Hospitality & Services,2443946,0,1,0
+TXN-00583,Talata Mafara,Retail & Commerce,678177,2,15,0
+TXN-00584,Gusau,Retail & Commerce,410306,1,20,0
+TXN-00585,Bakura,Retail & Commerce,1554558,2,21,1
+TXN-00586,Gusau,Retail & Commerce,1508857,0,18,1
+TXN-00587,Gusau,Agriculture & Agro-Allied,1644502,1,13,1
+TXN-00588,Gusau,Transportation,1538303,2,24,0
+TXN-00589,Gusau,Agriculture & Agro-Allied,1838243,2,2,1
+TXN-00590,Gusau,Transportation,568490,3,19,0
+TXN-00591,Gusau,Hospitality & Services,1854933,2,15,0
+TXN-00592,Bakura,Hospitality & Services,2123946,0,12,1
+TXN-00593,Gusau,Retail & Commerce,84924,1,15,0
+TXN-00594,Gusau,Retail & Commerce,1311368,2,18,0
+TXN-00595,Gummi,Agriculture & Agro-Allied,1532526,0,14,0
+TXN-00596,Talata Mafara,Transportation,1953124,1,6,1
+TXN-00597,Bakura,Agriculture & Agro-Allied,2110583,2,12,0
+TXN-00598,Gusau,Retail & Commerce,520192,2,20,1
+TXN-00599,Gusau,Agriculture & Agro-Allied,1637542,2,23,1
+TXN-00600,Gusau,Agriculture & Agro-Allied,712132,0,6,0
+TXN-00601,Gusau,Retail & Commerce,1690027,2,9,0
+TXN-00602,Gusau,Agriculture & Agro-Allied,204536,1,4,1
+TXN-00603,Gusau,Transportation,625425,1,17,1
+TXN-00604,Gusau,Retail & Commerce,473448,1,2,1
+TXN-00605,Gusau,Agriculture & Agro-Allied,2090104,2,16,1
+TXN-00606,Talata Mafara,Retail & Commerce,674773,1,24,0
+TXN-00607,Gusau,Agriculture & Agro-Allied,2067528,0,14,1
+TXN-00608,Talata Mafara,Agriculture & Agro-Allied,1728332,4,8,1
+TXN-00609,Kaura Namoda,Transportation,1052021,1,14,0
+TXN-00610,Bakura,Agriculture & Agro-Allied,2148053,0,2,0
+TXN-00611,Gusau,Hospitality & Services,2235132,0,16,0
+TXN-00612,Bukkuyum,Agriculture & Agro-Allied,1468314,1,4,0
+TXN-00613,Bakura,Agriculture & Agro-Allied,839313,0,1,0
+TXN-00614,Gusau,Transportation,342007,0,23,0
+TXN-00615,Gummi,Retail & Commerce,1574960,4,20,1
+TXN-00616,Zurmi,Agriculture & Agro-Allied,2398991,1,14,1
+TXN-00617,Gusau,Retail & Commerce,1419971,0,8,0
+TXN-00618,Gusau,Agriculture & Agro-Allied,646860,2,3,1
+TXN-00619,Bukkuyum,Hospitality & Services,1662119,1,5,0
+TXN-00620,Bukkuyum,Retail & Commerce,437773,0,6,0
+TXN-00621,Gusau,Transportation,2132816,0,22,0
+TXN-00622,Gusau,Hospitality & Services,72499,0,8,0
+TXN-00623,Talata Mafara,Retail & Commerce,676840,0,6,0
+TXN-00624,Talata Mafara,Small-Scale Manufacturing,494844,1,6,0
+TXN-00625,Kaura Namoda,Retail & Commerce,1684224,0,4,1
+TXN-00626,Talata Mafara,Small-Scale Manufacturing,1496395,2,7,1
+TXN-00627,Talata Mafara,Agriculture & Agro-Allied,921905,0,24,0
+TXN-00628,Bukkuyum,Transportation,193704,1,19,0
+TXN-00629,Gusau,Retail & Commerce,1190449,4,7,0
+TXN-00630,Gusau,Retail & Commerce,115756,1,3,0
+TXN-00631,Bakura,Retail & Commerce,1417064,2,8,0
+TXN-00632,Gummi,Transportation,1220473,1,1,0
+TXN-00633,Kaura Namoda,Agriculture & Agro-Allied,570082,2,1,1
+TXN-00634,Kaura Namoda,Agriculture & Agro-Allied,2446640,1,14,1
+TXN-00635,Gusau,Transportation,1093361,1,6,0
+TXN-00636,Talata Mafara,Transportation,2230943,2,10,1
+TXN-00637,Kaura Namoda,Small-Scale Manufacturing,1778235,1,14,0
+TXN-00638,Gusau,Transportation,1975464,2,4,0
+TXN-00639,Gusau,Small-Scale Manufacturing,1966796,0,6,0
+TXN-00640,Talata Mafara,Transportation,1336188,0,16,0
+TXN-00641,Gusau,Agriculture & Agro-Allied,483797,2,21,1
+TXN-00642,Gusau,Agriculture & Agro-Allied,850607,2,1,1
+TXN-00643,Gusau,Transportation,2137784,0,6,1
+TXN-00644,Gusau,Retail & Commerce,2284415,1,9,1
+TXN-00645,Gusau,Agriculture & Agro-Allied,2492730,4,15,0
+TXN-00646,Gummi,Retail & Commerce,1834094,1,12,0
+TXN-00647,Kaura Namoda,Small-Scale Manufacturing,952153,1,3,1
+TXN-00648,Bakura,Retail & Commerce,2194797,1,11,1
+TXN-00649,Bukkuyum,Retail & Commerce,289608,0,15,0
+TXN-00650,Talata Mafara,Retail & Commerce,597571,1,3,0
+TXN-00651,Gusau,Agriculture & Agro-Allied,399115,1,14,1
+TXN-00652,Kaura Namoda,Retail & Commerce,152780,1,2,0
+TXN-00653,Kaura Namoda,Retail & Commerce,1521816,2,4,0
+TXN-00654,Bukkuyum,Agriculture & Agro-Allied,1541422,1,19,0
+TXN-00655,Talata Mafara,Transportation,867166,2,12,0
+TXN-00656,Gusau,Retail & Commerce,903159,1,2,0
+TXN-00657,Gusau,Hospitality & Services,945596,2,17,0
+TXN-00658,Talata Mafara,Hospitality & Services,2481129,0,3,1
+TXN-00659,Bakura,Agriculture & Agro-Allied,633043,0,10,0
+TXN-00660,Kaura Namoda,Transportation,1650720,2,16,1
+TXN-00661,Talata Mafara,Retail & Commerce,2040242,1,22,0
+TXN-00662,Zurmi,Hospitality & Services,1892995,1,9,0
+TXN-00663,Kaura Namoda,Agriculture & Agro-Allied,2243654,0,11,0
+TXN-00664,Gusau,Transportation,2019412,1,21,1
+TXN-00665,Gusau,Retail & Commerce,640611,0,15,0
+TXN-00666,Gusau,Agriculture & Agro-Allied,482206,2,3,0
+TXN-00667,Gusau,Agriculture & Agro-Allied,787902,0,16,0
+TXN-00668,Gusau,Transportation,1577553,0,21,0
+TXN-00669,Gusau,Transportation,478556,0,21,0
+TXN-00670,Gusau,Retail & Commerce,1728083,2,21,1
+TXN-00671,Gusau,Retail & Commerce,2482620,2,12,0
+TXN-00672,Gummi,Retail & Commerce,1900697,3,23,0
+TXN-00673,Gusau,Transportation,1732620,3,5,0
+TXN-00674,Kaura Namoda,Agriculture & Agro-Allied,530350,2,7,0
+TXN-00675,Talata Mafara,Hospitality & Services,546232,1,9,0
+TXN-00676,Zurmi,Agriculture & Agro-Allied,1737023,0,21,0
+TXN-00677,Gusau,Retail & Commerce,1799182,2,18,0
+TXN-00678,Talata Mafara,Agriculture & Agro-Allied,2096719,2,21,0
+TXN-00679,Zurmi,Agriculture & Agro-Allied,1476548,3,8,1
+TXN-00680,Gummi,Retail & Commerce,1896780,1,12,0
+TXN-00681,Bukkuyum,Agriculture & Agro-Allied,925817,1,20,0
+TXN-00682,Gusau,Hospitality & Services,2074611,1,2,1
+TXN-00683,Gusau,Agriculture & Agro-Allied,300231,3,10,0
+TXN-00684,Bakura,Retail & Commerce,1111516,1,19,0
+TXN-00685,Zurmi,Retail & Commerce,430171,1,9,1
+TXN-00686,Kaura Namoda,Agriculture & Agro-Allied,591220,2,24,0
+TXN-00687,Kaura Namoda,Agriculture & Agro-Allied,1028935,2,8,1
+TXN-00688,Gusau,Retail & Commerce,1123224,1,24,1
+TXN-00689,Bukkuyum,Retail & Commerce,1080451,1,24,1
+TXN-00690,Gusau,Retail & Commerce,2180118,3,24,1
+TXN-00691,Gusau,Retail & Commerce,470993,2,1,0
+TXN-00692,Talata Mafara,Retail & Commerce,2310791,0,6,0
+TXN-00693,Kaura Namoda,Agriculture & Agro-Allied,296331,2,12,0
+TXN-00694,Gusau,Retail & Commerce,1141174,1,24,1
+TXN-00695,Gusau,Small-Scale Manufacturing,240271,3,19,1
+TXN-00696,Kaura Namoda,Retail & Commerce,457014,1,17,0
+TXN-00697,Gusau,Transportation,897516,2,2,1
+TXN-00698,Kaura Namoda,Retail & Commerce,2395156,0,11,0
+TXN-00699,Gusau,Transportation,1053510,2,18,0
+TXN-00700,Talata Mafara,Transportation,67118,2,23,0
+TXN-00701,Kaura Namoda,Retail & Commerce,1121192,1,22,0
+TXN-00702,Gusau,Small-Scale Manufacturing,2279022,0,11,0
+TXN-00703,Gusau,Agriculture & Agro-Allied,1910371,2,18,0
+TXN-00704,Gusau,Agriculture & Agro-Allied,52795,3,8,1
+TXN-00705,Gusau,Transportation,1621480,0,15,1
+TXN-00706,Zurmi,Hospitality & Services,1980873,1,9,0
+TXN-00707,Gusau,Agriculture & Agro-Allied,837163,1,15,0
+TXN-00708,Bukkuyum,Agriculture & Agro-Allied,2306246,0,7,0
+TXN-00709,Gusau,Agriculture & Agro-Allied,2410901,1,20,0
+TXN-00710,Bakura,Agriculture & Agro-Allied,2310554,2,13,1
+TXN-00711,Bukkuyum,Transportation,469007,0,13,0
+TXN-00712,Kaura Namoda,Retail & Commerce,1451156,1,1,0
+TXN-00713,Talata Mafara,Retail & Commerce,273034,2,20,0
+TXN-00714,Talata Mafara,Retail & Commerce,1722558,3,4,1
+TXN-00715,Gusau,Agriculture & Agro-Allied,840671,0,24,0
+TXN-00716,Zurmi,Agriculture & Agro-Allied,2430159,1,4,1
+TXN-00717,Gummi,Retail & Commerce,363559,2,4,1
+TXN-00718,Zurmi,Small-Scale Manufacturing,118968,2,13,0
+TXN-00719,Gusau,Hospitality & Services,543891,1,2,0
+TXN-00720,Bukkuyum,Agriculture & Agro-Allied,634718,1,23,1
+TXN-00721,Zurmi,Hospitality & Services,1348648,1,15,0
+TXN-00722,Gusau,Transportation,2148667,2,4,0
+TXN-00723,Gusau,Transportation,2244358,2,6,1
+TXN-00724,Bukkuyum,Retail & Commerce,2392434,1,3,1
+TXN-00725,Kaura Namoda,Retail & Commerce,1858566,0,7,0
+TXN-00726,Gummi,Retail & Commerce,892672,2,6,1
+TXN-00727,Gusau,Agriculture & Agro-Allied,2152738,3,3,1
+TXN-00728,Bukkuyum,Agriculture & Agro-Allied,1068725,1,4,0
+TXN-00729,Gusau,Agriculture & Agro-Allied,819565,1,10,0
+TXN-00730,Gusau,Retail & Commerce,1654050,0,21,0
+TXN-00731,Gusau,Transportation,2167191,2,9,0
+TXN-00732,Bukkuyum,Retail & Commerce,1659425,0,6,0
+TXN-00733,Bakura,Agriculture & Agro-Allied,2353707,1,20,1
+TXN-00734,Kaura Namoda,Small-Scale Manufacturing,1589663,1,11,0
+TXN-00735,Talata Mafara,Small-Scale Manufacturing,1048899,0,7,0
+TXN-00736,Gummi,Transportation,1318306,1,18,0
+TXN-00737,Talata Mafara,Small-Scale Manufacturing,2148729,1,4,1
+TXN-00738,Bukkuyum,Retail & Commerce,157792,2,5,1
+TXN-00739,Talata Mafara,Small-Scale Manufacturing,1870844,2,4,1
+TXN-00740,Talata Mafara,Agriculture & Agro-Allied,1337116,0,4,0
+TXN-00741,Talata Mafara,Retail & Commerce,1001302,2,13,1
+TXN-00742,Gusau,Agriculture & Agro-Allied,60785,0,16,0
+TXN-00743,Bukkuyum,Agriculture & Agro-Allied,1170803,0,14,0
+TXN-00744,Kaura Namoda,Agriculture & Agro-Allied,955112,1,11,0
+TXN-00745,Gusau,Retail & Commerce,200653,1,2,1
+TXN-00746,Gummi,Transportation,2464488,0,22,0
+TXN-00747,Talata Mafara,Retail & Commerce,313606,3,14,1
+TXN-00748,Kaura Namoda,Agriculture & Agro-Allied,1818109,0,24,0
+TXN-00749,Gummi,Hospitality & Services,983015,1,24,0
+TXN-00750,Bakura,Retail & Commerce,1798350,1,7,1
+TXN-00751,Gusau,Retail & Commerce,1695437,1,11,1
+TXN-00752,Zurmi,Transportation,2371889,1,4,0
+TXN-00753,Bakura,Agriculture & Agro-Allied,944235,1,7,0
+TXN-00754,Gusau,Retail & Commerce,1636250,1,16,1
+TXN-00755,Gusau,Small-Scale Manufacturing,436213,2,6,0
+TXN-00756,Bukkuyum,Agriculture & Agro-Allied,1153036,1,6,0
+TXN-00757,Bakura,Retail & Commerce,466690,2,2,0
+TXN-00758,Kaura Namoda,Hospitality & Services,1073577,1,24,0
+TXN-00759,Gummi,Transportation,1213951,1,8,0
+TXN-00760,Bukkuyum,Agriculture & Agro-Allied,202117,1,7,0
+TXN-00761,Gusau,Agriculture & Agro-Allied,927751,1,24,0
+TXN-00762,Gusau,Agriculture & Agro-Allied,1215158,1,14,1
+TXN-00763,Gusau,Retail & Commerce,972426,1,9,0
+TXN-00764,Bukkuyum,Retail & Commerce,1865879,0,15,0
+TXN-00765,Gusau,Agriculture & Agro-Allied,728066,0,22,0
+TXN-00766,Kaura Namoda,Small-Scale Manufacturing,1927779,1,18,1
+TXN-00767,Bukkuyum,Retail & Commerce,1675199,1,12,0
+TXN-00768,Gummi,Agriculture & Agro-Allied,1851951,3,23,1
+TXN-00769,Gusau,Retail & Commerce,102949,0,19,0
+TXN-00770,Gummi,Transportation,513930,0,13,0
+TXN-00771,Gusau,Agriculture & Agro-Allied,2242710,0,7,0
+TXN-00772,Gummi,Agriculture & Agro-Allied,1059260,3,10,0
+TXN-00773,Gusau,Hospitality & Services,839148,2,10,0
+TXN-00774,Talata Mafara,Retail & Commerce,1565509,0,2,0
+TXN-00775,Bukkuyum,Retail & Commerce,1603091,1,14,1
+TXN-00776,Gusau,Retail & Commerce,2219068,2,13,0
+TXN-00777,Gusau,Agriculture & Agro-Allied,1358166,0,22,0
+TXN-00778,Bukkuyum,Agriculture & Agro-Allied,2145104,1,6,0
+TXN-00779,Bukkuyum,Retail & Commerce,2048053,0,9,0
+TXN-00780,Bakura,Agriculture & Agro-Allied,1173270,3,13,0
+TXN-00781,Bakura,Agriculture & Agro-Allied,905126,2,9,1
+TXN-00782,Kaura Namoda,Hospitality & Services,1380728,2,13,1
+TXN-00783,Gusau,Small-Scale Manufacturing,1079242,1,5,0
+TXN-00784,Gusau,Transportation,2217626,1,14,1
+TXN-00785,Gusau,Hospitality & Services,400068,3,5,1
+TXN-00786,Gummi,Agriculture & Agro-Allied,1360624,1,9,0
+TXN-00787,Kaura Namoda,Small-Scale Manufacturing,1879438,0,8,0
+TXN-00788,Talata Mafara,Agriculture & Agro-Allied,1645368,1,7,1
+TXN-00789,Talata Mafara,Small-Scale Manufacturing,1153546,1,8,1
+TXN-00790,Zurmi,Small-Scale Manufacturing,454911,1,22,0
+TXN-00791,Gusau,Transportation,2030639,3,3,1
+TXN-00792,Kaura Namoda,Small-Scale Manufacturing,1787075,0,23,1
+TXN-00793,Kaura Namoda,Retail & Commerce,1219070,1,24,0
+TXN-00794,Kaura Namoda,Agriculture & Agro-Allied,221277,1,15,0
+TXN-00795,Gusau,Retail & Commerce,541966,0,8,1
+TXN-00796,Gummi,Retail & Commerce,2443455,2,1,0
+TXN-00797,Zurmi,Agriculture & Agro-Allied,1411212,0,7,0
+TXN-00798,Kaura Namoda,Retail & Commerce,1736622,0,19,0
+TXN-00799,Bakura,Small-Scale Manufacturing,1653344,2,2,1
+TXN-00800,Zurmi,Agriculture & Agro-Allied,2330315,0,14,0
+TXN-00801,Bakura,Transportation,1277414,2,18,1
+TXN-00802,Gusau,Small-Scale Manufacturing,2418561,1,15,0
+TXN-00803,Kaura Namoda,Small-Scale Manufacturing,1431710,2,14,1
+TXN-00804,Kaura Namoda,Small-Scale Manufacturing,2107797,1,24,0
+TXN-00805,Talata Mafara,Retail & Commerce,851818,1,19,0
+TXN-00806,Bukkuyum,Small-Scale Manufacturing,1989726,2,19,1
+TXN-00807,Zurmi,Transportation,873857,1,22,1
+TXN-00808,Zurmi,Agriculture & Agro-Allied,2268787,0,17,0
+TXN-00809,Talata Mafara,Retail & Commerce,270935,1,22,0
+TXN-00810,Gusau,Transportation,923420,1,19,0
+TXN-00811,Zurmi,Agriculture & Agro-Allied,1857720,1,16,0
+TXN-00812,Gummi,Retail & Commerce,1991345,1,20,0
+TXN-00813,Gusau,Transportation,542503,1,19,0
+TXN-00814,Zurmi,Agriculture & Agro-Allied,268599,1,1,0
+TXN-00815,Gummi,Retail & Commerce,2385071,1,19,1
+TXN-00816,Kaura Namoda,Transportation,1583183,0,7,0
+TXN-00817,Kaura Namoda,Retail & Commerce,1690307,0,23,0
+TXN-00818,Talata Mafara,Agriculture & Agro-Allied,1390144,1,11,0
+TXN-00819,Gusau,Agriculture & Agro-Allied,878416,0,5,0
+TXN-00820,Gusau,Retail & Commerce,2188657,0,17,0
+TXN-00821,Bukkuyum,Small-Scale Manufacturing,994461,0,11,0
+TXN-00822,Gusau,Agriculture & Agro-Allied,1517256,1,24,1
+TXN-00823,Gusau,Retail & Commerce,204721,0,8,0
+TXN-00824,Talata Mafara,Agriculture & Agro-Allied,2058145,1,10,0
+TXN-00825,Kaura Namoda,Retail & Commerce,1060165,2,12,1
+TXN-00826,Gummi,Hospitality & Services,186668,1,10,0
+TXN-00827,Gusau,Transportation,328518,1,13,0
+TXN-00828,Gusau,Agriculture & Agro-Allied,1414359,0,18,0
+TXN-00829,Bukkuyum,Retail & Commerce,1212586,4,10,1
+TXN-00830,Talata Mafara,Agriculture & Agro-Allied,1653969,0,19,1
+TXN-00831,Gusau,Retail & Commerce,573472,0,20,0
+TXN-00832,Talata Mafara,Transportation,456884,1,17,0
+TXN-00833,Gusau,Agriculture & Agro-Allied,309021,2,20,1
+TXN-00834,Gusau,Agriculture & Agro-Allied,197032,2,16,1
+TXN-00835,Talata Mafara,Retail & Commerce,507820,1,5,0
+TXN-00836,Talata Mafara,Small-Scale Manufacturing,939171,1,3,0
+TXN-00837,Gummi,Small-Scale Manufacturing,1412516,2,15,0
+TXN-00838,Talata Mafara,Agriculture & Agro-Allied,2425100,2,2,1
+TXN-00839,Kaura Namoda,Transportation,1083237,2,13,1
+TXN-00840,Bakura,Retail & Commerce,1768562,0,22,0
+TXN-00841,Gusau,Retail & Commerce,2306356,1,8,1
+TXN-00842,Bakura,Transportation,1379785,1,23,1
+TXN-00843,Gusau,Small-Scale Manufacturing,155072,2,17,0
+TXN-00844,Zurmi,Small-Scale Manufacturing,139360,1,4,0
+TXN-00845,Gusau,Retail & Commerce,2209439,1,19,1
+TXN-00846,Talata Mafara,Retail & Commerce,757062,2,22,1
+TXN-00847,Gusau,Transportation,742353,0,9,0
+TXN-00848,Zurmi,Agriculture & Agro-Allied,737235,1,23,0
+TXN-00849,Kaura Namoda,Retail & Commerce,820644,3,15,1
+TXN-00850,Kaura Namoda,Retail & Commerce,2378033,0,9,0
+TXN-00851,Gusau,Transportation,1205933,2,24,1
+TXN-00852,Bukkuyum,Agriculture & Agro-Allied,1540309,1,21,0
+TXN-00853,Gusau,Agriculture & Agro-Allied,257440,3,9,0
+TXN-00854,Gummi,Small-Scale Manufacturing,1296735,0,14,0
+TXN-00855,Gusau,Agriculture & Agro-Allied,1932930,2,23,0
+TXN-00856,Gusau,Retail & Commerce,244152,0,21,0
+TXN-00857,Gusau,Agriculture & Agro-Allied,1978356,1,16,0
+TXN-00858,Talata Mafara,Agriculture & Agro-Allied,653623,1,24,0
+TXN-00859,Kaura Namoda,Agriculture & Agro-Allied,862744,2,23,0
+TXN-00860,Gusau,Agriculture & Agro-Allied,1025112,2,17,0
+TXN-00861,Bukkuyum,Hospitality & Services,533178,1,13,0
+TXN-00862,Talata Mafara,Agriculture & Agro-Allied,1269925,0,9,0
+TXN-00863,Kaura Namoda,Small-Scale Manufacturing,605839,0,15,0
+TXN-00864,Talata Mafara,Retail & Commerce,664101,0,7,0
+TXN-00865,Talata Mafara,Retail & Commerce,499813,2,1,0
+TXN-00866,Kaura Namoda,Retail & Commerce,1108213,1,1,0
+TXN-00867,Gusau,Retail & Commerce,1928266,1,5,1
+TXN-00868,Gusau,Transportation,1003197,0,24,0
+TXN-00869,Gummi,Agriculture & Agro-Allied,977328,0,9,1
+TXN-00870,Zurmi,Retail & Commerce,1752417,2,12,0
+TXN-00871,Talata Mafara,Hospitality & Services,601238,0,6,0
+TXN-00872,Gusau,Small-Scale Manufacturing,466704,1,13,0
+TXN-00873,Bakura,Hospitality & Services,1750734,3,8,1
+TXN-00874,Talata Mafara,Retail & Commerce,2131280,2,15,1
+TXN-00875,Gusau,Transportation,50215,1,6,0
+TXN-00876,Gusau,Retail & Commerce,417747,1,6,0
+TXN-00877,Bakura,Retail & Commerce,905121,3,4,1
+TXN-00878,Bakura,Agriculture & Agro-Allied,1067375,3,11,1
+TXN-00879,Gusau,Retail & Commerce,322544,0,21,0
+TXN-00880,Gusau,Agriculture & Agro-Allied,584633,1,18,0
+TXN-00881,Gusau,Retail & Commerce,1132472,1,3,0
+TXN-00882,Bakura,Hospitality & Services,1577222,0,3,0
+TXN-00883,Gusau,Agriculture & Agro-Allied,1913907,1,12,0
+TXN-00884,Gusau,Agriculture & Agro-Allied,864661,0,21,0
+TXN-00885,Bukkuyum,Agriculture & Agro-Allied,1366303,3,21,1
+TXN-00886,Gusau,Small-Scale Manufacturing,972401,1,6,0
+TXN-00887,Bakura,Retail & Commerce,563622,0,21,0
+TXN-00888,Gusau,Retail & Commerce,1170113,0,6,0
+TXN-00889,Gusau,Hospitality & Services,1863353,2,8,0
+TXN-00890,Gusau,Hospitality & Services,447783,2,15,0
+TXN-00891,Bukkuyum,Retail & Commerce,949084,0,18,0
+TXN-00892,Gummi,Transportation,520455,3,20,1
+TXN-00893,Gummi,Transportation,282117,1,16,0
+TXN-00894,Talata Mafara,Transportation,1871644,0,6,1
+TXN-00895,Bakura,Agriculture & Agro-Allied,500985,1,21,0
+TXN-00896,Gusau,Hospitality & Services,2193184,1,17,1
+TXN-00897,Gusau,Retail & Commerce,554910,2,9,0
+TXN-00898,Gummi,Agriculture & Agro-Allied,673090,1,19,0
+TXN-00899,Gusau,Retail & Commerce,2079341,1,18,1
+TXN-00900,Gusau,Agriculture & Agro-Allied,2452114,0,23,0
+TXN-00901,Gusau,Agriculture & Agro-Allied,1985430,1,5,1
+TXN-00902,Gusau,Transportation,1819617,2,6,0
+TXN-00903,Gusau,Agriculture & Agro-Allied,2488761,1,12,1
+TXN-00904,Kaura Namoda,Retail & Commerce,687509,3,11,1
+TXN-00905,Talata Mafara,Retail & Commerce,2446629,1,16,1
+TXN-00906,Gummi,Agriculture & Agro-Allied,1225033,2,20,0
+TXN-00907,Bukkuyum,Small-Scale Manufacturing,1377296,3,17,1
+TXN-00908,Gusau,Agriculture & Agro-Allied,930432,1,20,0
+TXN-00909,Gusau,Retail & Commerce,516995,2,9,1
+TXN-00910,Talata Mafara,Retail & Commerce,2083436,0,1,0
+TXN-00911,Kaura Namoda,Agriculture & Agro-Allied,1412836,1,3,0
+TXN-00912,Gusau,Agriculture & Agro-Allied,2116905,0,21,0
+TXN-00913,Bakura,Transportation,1609048,0,23,1
+TXN-00914,Talata Mafara,Small-Scale Manufacturing,678474,1,9,0
+TXN-00915,Kaura Namoda,Agriculture & Agro-Allied,739995,1,22,0
+TXN-00916,Talata Mafara,Transportation,1679618,0,19,0
+TXN-00917,Gusau,Transportation,2240002,2,13,1
+TXN-00918,Zurmi,Hospitality & Services,1839055,1,23,1
+TXN-00919,Bukkuyum,Retail & Commerce,1661735,0,14,0
+TXN-00920,Gusau,Retail & Commerce,1292522,0,20,1
+TXN-00921,Gummi,Retail & Commerce,917392,0,19,0
+TXN-00922,Talata Mafara,Transportation,1016325,4,23,1
+TXN-00923,Gummi,Hospitality & Services,1347776,2,7,0
+TXN-00924,Bukkuyum,Agriculture & Agro-Allied,775527,2,4,1
+TXN-00925,Talata Mafara,Retail & Commerce,2091215,1,12,0
+TXN-00926,Gusau,Small-Scale Manufacturing,1553174,3,23,1
+TXN-00927,Gusau,Hospitality & Services,1857317,3,14,1
+TXN-00928,Kaura Namoda,Small-Scale Manufacturing,1533702,1,2,0
+TXN-00929,Bakura,Transportation,1303179,2,1,1
+TXN-00930,Gusau,Retail & Commerce,1779122,0,18,0
+TXN-00931,Gusau,Retail & Commerce,784172,3,20,0
+TXN-00932,Gummi,Transportation,159779,0,8,0
+TXN-00933,Zurmi,Agriculture & Agro-Allied,1117133,2,3,0
+TXN-00934,Kaura Namoda,Retail & Commerce,502082,1,6,1
+TXN-00935,Gusau,Transportation,384248,0,22,0
+TXN-00936,Gusau,Agriculture & Agro-Allied,1576369,1,13,0
+TXN-00937,Gusau,Transportation,711440,3,9,1
+TXN-00938,Gummi,Retail & Commerce,1243502,1,9,0
+TXN-00939,Gusau,Small-Scale Manufacturing,2007021,0,20,0
+TXN-00940,Kaura Namoda,Agriculture & Agro-Allied,971872,3,9,0
+TXN-00941,Gusau,Agriculture & Agro-Allied,804981,0,15,1
+TXN-00942,Kaura Namoda,Retail & Commerce,431325,0,13,0
+TXN-00943,Bakura,Agriculture & Agro-Allied,863526,2,22,0
+TXN-00944,Gummi,Transportation,1013544,1,16,0
+TXN-00945,Gusau,Transportation,2476062,1,2,1
+TXN-00946,Gusau,Agriculture & Agro-Allied,1886309,1,14,0
+TXN-00947,Gusau,Retail & Commerce,733970,1,6,0
+TXN-00948,Gummi,Retail & Commerce,655751,3,2,1
+TXN-00949,Gummi,Retail & Commerce,1788614,1,8,0
+TXN-00950,Kaura Namoda,Small-Scale Manufacturing,523656,2,4,0
+TXN-00951,Kaura Namoda,Hospitality & Services,1008379,0,21,0
+TXN-00952,Bakura,Transportation,1124657,2,24,1
+TXN-00953,Gusau,Transportation,1122930,1,14,0
+TXN-00954,Gummi,Retail & Commerce,667585,0,11,0
+TXN-00955,Talata Mafara,Small-Scale Manufacturing,1744548,1,24,0
+TXN-00956,Talata Mafara,Transportation,2182677,2,14,1
+TXN-00957,Kaura Namoda,Transportation,56464,1,12,0
+TXN-00958,Gusau,Hospitality & Services,1639426,1,16,1
+TXN-00959,Gusau,Agriculture & Agro-Allied,1211140,1,6,1
+TXN-00960,Bukkuyum,Hospitality & Services,1468767,1,20,0
+TXN-00961,Gusau,Agriculture & Agro-Allied,1885068,0,1,0
+TXN-00962,Kaura Namoda,Retail & Commerce,1894277,1,12,0
+TXN-00963,Gusau,Retail & Commerce,2341367,1,7,1
+TXN-00964,Talata Mafara,Small-Scale Manufacturing,1645929,1,8,1
+TXN-00965,Gusau,Hospitality & Services,315039,1,9,1
+TXN-00966,Talata Mafara,Transportation,1441579,1,2,0
+TXN-00967,Bakura,Transportation,2126259,2,17,0
+TXN-00968,Gusau,Retail & Commerce,1017241,1,20,0
+TXN-00969,Kaura Namoda,Small-Scale Manufacturing,2251279,1,13,0
+TXN-00970,Talata Mafara,Retail & Commerce,146426,2,5,1
+TXN-00971,Bakura,Retail & Commerce,1290952,1,10,1
+TXN-00972,Zurmi,Agriculture & Agro-Allied,1110538,2,12,0
+TXN-00973,Bukkuyum,Transportation,2180454,0,17,0
+TXN-00974,Gusau,Transportation,1446102,1,21,0
+TXN-00975,Gusau,Retail & Commerce,54011,0,6,0
+TXN-00976,Gusau,Agriculture & Agro-Allied,2014724,1,3,0
+TXN-00977,Kaura Namoda,Hospitality & Services,69782,2,15,1
+TXN-00978,Gusau,Agriculture & Agro-Allied,2138097,0,7,0
+TXN-00979,Talata Mafara,Transportation,482941,1,6,1
+TXN-00980,Kaura Namoda,Small-Scale Manufacturing,1632060,2,4,0
+TXN-00981,Gusau,Retail & Commerce,653151,1,19,0
+TXN-00982,Bukkuyum,Agriculture & Agro-Allied,1873327,2,5,0
+TXN-00983,Gusau,Transportation,1834292,1,3,1
+TXN-00984,Gusau,Hospitality & Services,2378389,1,9,0
+TXN-00985,Bukkuyum,Retail & Commerce,1890277,1,6,1
+TXN-00986,Talata Mafara,Small-Scale Manufacturing,958063,0,13,0
+TXN-00987,Bakura,Agriculture & Agro-Allied,356024,0,22,0
+TXN-00988,Talata Mafara,Retail & Commerce,164003,0,20,1
+TXN-00989,Gusau,Transportation,1237968,0,4,0
+TXN-00990,Bukkuyum,Hospitality & Services,2196741,2,2,0
+TXN-00991,Bukkuyum,Agriculture & Agro-Allied,300606,0,4,0
+TXN-00992,Bakura,Hospitality & Services,781636,2,8,1
+TXN-00993,Gusau,Retail & Commerce,610185,0,13,0
+TXN-00994,Kaura Namoda,Retail & Commerce,2336789,0,10,0
+TXN-00995,Talata Mafara,Agriculture & Agro-Allied,736290,0,18,0
+TXN-00996,Gusau,Hospitality & Services,1811169,0,9,0
+TXN-00997,Gummi,Agriculture & Agro-Allied,1899388,1,1,0
+TXN-00998,Gusau,Retail & Commerce,1830832,1,13,1
+TXN-00999,Zurmi,Agriculture & Agro-Allied,2414825,3,18,1
+TXN-01000,Talata Mafara,Hospitality & Services,807582,1,15,1
+TXN-01001,Gusau,Transportation,2230139,2,2,0
+TXN-01002,Kaura Namoda,Transportation,1482672,2,11,0
+TXN-01003,Gummi,Agriculture & Agro-Allied,614174,0,14,0
+TXN-01004,Bukkuyum,Retail & Commerce,1672563,0,22,1
+TXN-01005,Bukkuyum,Retail & Commerce,1699260,1,15,1
+TXN-01006,Bakura,Hospitality & Services,1713542,1,14,1
+TXN-01007,Bakura,Small-Scale Manufacturing,2257928,1,16,0
+TXN-01008,Gummi,Agriculture & Agro-Allied,260809,1,23,0
+TXN-01009,Gusau,Transportation,1270192,2,15,1
+TXN-01010,Talata Mafara,Agriculture & Agro-Allied,1463967,0,19,0
+TXN-01011,Gusau,Retail & Commerce,583285,2,9,0
+TXN-01012,Zurmi,Agriculture & Agro-Allied,922143,2,5,0
+TXN-01013,Zurmi,Retail & Commerce,1732978,0,5,1
+TXN-01014,Gusau,Retail & Commerce,1985772,1,11,1
+TXN-01015,Bakura,Retail & Commerce,2254193,1,20,0
+TXN-01016,Zurmi,Retail & Commerce,424368,1,24,0
+TXN-01017,Gusau,Transportation,2472952,1,4,0
+TXN-01018,Kaura Namoda,Retail & Commerce,1911663,0,20,0
+TXN-01019,Gummi,Agriculture & Agro-Allied,1219694,0,18,0
+TXN-01020,Gusau,Transportation,1101690,0,3,1
+TXN-01021,Bakura,Agriculture & Agro-Allied,99768,0,4,0
+TXN-01022,Gusau,Retail & Commerce,1511820,0,14,0
+TXN-01023,Zurmi,Transportation,1023069,1,7,1
+TXN-01024,Zurmi,Retail & Commerce,2230275,1,8,0
+TXN-01025,Zurmi,Agriculture & Agro-Allied,2313557,1,24,1
+TXN-01026,Talata Mafara,Retail & Commerce,2150326,0,16,0
+TXN-01027,Gummi,Small-Scale Manufacturing,167769,1,20,0
+TXN-01028,Gummi,Retail & Commerce,347542,3,15,0
+TXN-01029,Gusau,Transportation,1484269,1,7,0
+TXN-01030,Gummi,Retail & Commerce,816868,1,17,0
+TXN-01031,Gusau,Agriculture & Agro-Allied,1285069,0,22,0
+TXN-01032,Kaura Namoda,Retail & Commerce,1908768,1,22,1
+TXN-01033,Gusau,Transportation,978864,1,22,0
+TXN-01034,Gusau,Agriculture & Agro-Allied,1764249,1,12,0
+TXN-01035,Gusau,Agriculture & Agro-Allied,817166,1,18,1
+TXN-01036,Bakura,Agriculture & Agro-Allied,2364222,1,24,0
+TXN-01037,Gusau,Retail & Commerce,449017,2,14,1
+TXN-01038,Bukkuyum,Small-Scale Manufacturing,981775,2,15,0
+TXN-01039,Gusau,Agriculture & Agro-Allied,1507867,1,15,1
+TXN-01040,Gusau,Retail & Commerce,1594247,2,5,1
+TXN-01041,Kaura Namoda,Agriculture & Agro-Allied,897374,0,16,0
+TXN-01042,Bukkuyum,Small-Scale Manufacturing,2291085,1,5,1
+TXN-01043,Gusau,Agriculture & Agro-Allied,1298749,1,2,0
+TXN-01044,Bakura,Retail & Commerce,726337,2,20,0
+TXN-01045,Gummi,Transportation,2073553,2,9,1
+TXN-01046,Kaura Namoda,Transportation,1316302,0,22,0
+TXN-01047,Gusau,Retail & Commerce,2146419,0,9,1
+TXN-01048,Gusau,Retail & Commerce,142172,0,4,0
+TXN-01049,Gummi,Retail & Commerce,720990,1,15,1
+TXN-01050,Gusau,Agriculture & Agro-Allied,594344,0,11,0
+TXN-01051,Gummi,Agriculture & Agro-Allied,1237030,1,1,0
+TXN-01052,Kaura Namoda,Retail & Commerce,1154315,1,18,0
+TXN-01053,Zurmi,Agriculture & Agro-Allied,98639,0,1,0
+TXN-01054,Bukkuyum,Agriculture & Agro-Allied,646682,1,8,1
+TXN-01055,Zurmi,Transportation,379801,3,16,1
+TXN-01056,Talata Mafara,Small-Scale Manufacturing,1930164,3,22,0
+TXN-01057,Bukkuyum,Retail & Commerce,232447,0,18,0
+TXN-01058,Talata Mafara,Agriculture & Agro-Allied,2495738,0,22,0
+TXN-01059,Talata Mafara,Agriculture & Agro-Allied,724932,1,9,1
+TXN-01060,Bakura,Small-Scale Manufacturing,430069,1,12,1
+TXN-01061,Gummi,Agriculture & Agro-Allied,54136,1,19,1
+TXN-01062,Zurmi,Agriculture & Agro-Allied,2209020,1,18,0
+TXN-01063,Bukkuyum,Retail & Commerce,2491559,1,5,0
+TXN-01064,Talata Mafara,Retail & Commerce,160957,3,2,1
+TXN-01065,Talata Mafara,Retail & Commerce,589767,1,7,0
+TXN-01066,Bukkuyum,Agriculture & Agro-Allied,169392,1,10,1
+TXN-01067,Gusau,Agriculture & Agro-Allied,710183,3,15,1
+TXN-01068,Gusau,Small-Scale Manufacturing,1300104,0,7,0
+TXN-01069,Talata Mafara,Agriculture & Agro-Allied,856017,0,5,0
+TXN-01070,Gusau,Transportation,2033352,1,15,0
+TXN-01071,Gusau,Transportation,1911627,0,20,0
+TXN-01072,Gusau,Retail & Commerce,911501,1,20,0
+TXN-01073,Gusau,Retail & Commerce,315864,0,15,0
+TXN-01074,Gusau,Agriculture & Agro-Allied,331411,0,10,0
+TXN-01075,Zurmi,Retail & Commerce,1245344,0,24,0
+TXN-01076,Talata Mafara,Hospitality & Services,735328,3,14,1
+TXN-01077,Talata Mafara,Small-Scale Manufacturing,2462660,0,10,0
+TXN-01078,Bakura,Agriculture & Agro-Allied,466561,2,17,1
+TXN-01079,Gusau,Agriculture & Agro-Allied,101567,4,21,0
+TXN-01080,Zurmi,Small-Scale Manufacturing,2238381,0,14,0
+TXN-01081,Bukkuyum,Transportation,1575450,1,2,0
+TXN-01082,Gusau,Hospitality & Services,1819361,2,16,1
+TXN-01083,Talata Mafara,Agriculture & Agro-Allied,657132,2,13,0
+TXN-01084,Gummi,Retail & Commerce,1262567,1,9,1
+TXN-01085,Zurmi,Transportation,1680060,0,7,1
+TXN-01086,Talata Mafara,Transportation,674913,1,16,0
+TXN-01087,Kaura Namoda,Retail & Commerce,1571193,0,10,0
+TXN-01088,Gusau,Agriculture & Agro-Allied,967999,0,24,0
+TXN-01089,Zurmi,Retail & Commerce,2083764,2,22,1
+TXN-01090,Gusau,Agriculture & Agro-Allied,444768,2,9,1
+TXN-01091,Zurmi,Retail & Commerce,101272,2,22,0
+TXN-01092,Bakura,Small-Scale Manufacturing,299264,1,23,0
+TXN-01093,Kaura Namoda,Retail & Commerce,286538,1,7,0
+TXN-01094,Kaura Namoda,Hospitality & Services,565447,2,16,1
+TXN-01095,Gusau,Agriculture & Agro-Allied,203706,0,9,0
+TXN-01096,Gusau,Transportation,2486300,2,24,1
+TXN-01097,Gusau,Small-Scale Manufacturing,1023902,1,17,1
+TXN-01098,Gusau,Agriculture & Agro-Allied,803818,3,20,1
+TXN-01099,Bukkuyum,Agriculture & Agro-Allied,877150,1,7,0
+TXN-01100,Talata Mafara,Retail & Commerce,1836852,2,11,1
+TXN-01101,Gusau,Agriculture & Agro-Allied,2436166,2,8,1
+TXN-01102,Zurmi,Transportation,888489,1,7,1
+TXN-01103,Gummi,Small-Scale Manufacturing,1178371,0,19,0
+TXN-01104,Zurmi,Retail & Commerce,392553,1,20,0
+TXN-01105,Zurmi,Agriculture & Agro-Allied,92137,0,12,0
+TXN-01106,Gusau,Retail & Commerce,1491945,1,7,0
+TXN-01107,Talata Mafara,Transportation,188925,2,8,1
+TXN-01108,Bukkuyum,Agriculture & Agro-Allied,983296,0,7,0
+TXN-01109,Bakura,Retail & Commerce,2268321,2,6,1
+TXN-01110,Gusau,Retail & Commerce,1268015,1,9,0
+TXN-01111,Bukkuyum,Retail & Commerce,425233,1,13,0
+TXN-01112,Gusau,Agriculture & Agro-Allied,1030960,0,7,0
+TXN-01113,Gusau,Transportation,1633913,0,8,0
+TXN-01114,Kaura Namoda,Agriculture & Agro-Allied,1784635,3,22,0
+TXN-01115,Kaura Namoda,Agriculture & Agro-Allied,2007792,1,17,0
+TXN-01116,Kaura Namoda,Hospitality & Services,884123,1,17,1
+TXN-01117,Gusau,Transportation,1266688,1,16,0
+TXN-01118,Gummi,Agriculture & Agro-Allied,274062,1,22,0
+TXN-01119,Gusau,Agriculture & Agro-Allied,2205138,1,2,1
+TXN-01120,Gusau,Agriculture & Agro-Allied,481978,1,8,0
+TXN-01121,Gummi,Agriculture & Agro-Allied,1777536,1,17,1
+TXN-01122,Zurmi,Agriculture & Agro-Allied,1839639,1,13,1
+TXN-01123,Gummi,Agriculture & Agro-Allied,1203891,3,18,1
+TXN-01124,Bukkuyum,Retail & Commerce,2466500,2,24,0
+TXN-01125,Bakura,Transportation,752214,1,22,0
+TXN-01126,Kaura Namoda,Retail & Commerce,1566589,0,10,0
+TXN-01127,Gusau,Transportation,1838205,0,2,0
+TXN-01128,Talata Mafara,Agriculture & Agro-Allied,1810143,0,2,1
+TXN-01129,Talata Mafara,Small-Scale Manufacturing,275687,4,14,1
+TXN-01130,Gusau,Hospitality & Services,1394700,3,16,1
+TXN-01131,Bukkuyum,Hospitality & Services,2292365,3,7,1
+TXN-01132,Talata Mafara,Hospitality & Services,2121088,0,21,1
+TXN-01133,Gusau,Small-Scale Manufacturing,2163048,1,21,0
+TXN-01134,Gusau,Retail & Commerce,2236505,3,24,1
+TXN-01135,Bakura,Agriculture & Agro-Allied,79813,2,12,0
+TXN-01136,Gusau,Retail & Commerce,716041,2,23,1
+TXN-01137,Gummi,Transportation,1826839,1,14,1
+TXN-01138,Talata Mafara,Transportation,1496374,2,4,1
+TXN-01139,Talata Mafara,Retail & Commerce,2356907,0,4,1
+TXN-01140,Kaura Namoda,Agriculture & Agro-Allied,323541,1,18,0
+TXN-01141,Gummi,Retail & Commerce,1536056,0,3,1
+TXN-01142,Gusau,Small-Scale Manufacturing,1665181,1,1,0
+TXN-01143,Bakura,Retail & Commerce,2362857,1,17,0
+TXN-01144,Kaura Namoda,Retail & Commerce,1400816,1,7,0
+TXN-01145,Gusau,Agriculture & Agro-Allied,2463081,0,16,0
+TXN-01146,Gummi,Retail & Commerce,2199496,0,5,1
+TXN-01147,Bukkuyum,Hospitality & Services,820348,2,19,0
+TXN-01148,Bakura,Transportation,956814,3,7,0
+TXN-01149,Gummi,Transportation,2087171,1,14,0
+TXN-01150,Gummi,Retail & Commerce,508819,2,2,0
+TXN-01151,Bakura,Retail & Commerce,1258060,0,3,0
+TXN-01152,Gummi,Agriculture & Agro-Allied,1209065,0,17,0
+TXN-01153,Bakura,Transportation,494874,2,16,1
+TXN-01154,Bakura,Retail & Commerce,1541341,1,8,0
+TXN-01155,Kaura Namoda,Retail & Commerce,2158701,1,18,1
+TXN-01156,Bukkuyum,Retail & Commerce,2172891,1,15,0
+TXN-01157,Gusau,Small-Scale Manufacturing,857641,2,7,1
+TXN-01158,Gummi,Agriculture & Agro-Allied,2104048,2,9,0
+TXN-01159,Gummi,Hospitality & Services,1113692,1,6,0
+TXN-01160,Gusau,Agriculture & Agro-Allied,594333,3,18,0
+TXN-01161,Gummi,Retail & Commerce,993831,1,18,0
+TXN-01162,Gusau,Agriculture & Agro-Allied,85709,1,24,0
+TXN-01163,Gusau,Retail & Commerce,1928625,0,14,1
+TXN-01164,Bukkuyum,Retail & Commerce,1780841,1,14,0
+TXN-01165,Gusau,Agriculture & Agro-Allied,1031652,0,14,0
+TXN-01166,Bukkuyum,Retail & Commerce,279167,3,4,1
+TXN-01167,Gummi,Small-Scale Manufacturing,355063,1,4,0
+TXN-01168,Kaura Namoda,Agriculture & Agro-Allied,919953,0,15,0
+TXN-01169,Gusau,Transportation,2366374,1,15,1
+TXN-01170,Gusau,Retail & Commerce,763806,0,18,1
+TXN-01171,Kaura Namoda,Transportation,1015398,0,14,0
+TXN-01172,Zurmi,Agriculture & Agro-Allied,1048653,0,1,0
+TXN-01173,Bakura,Agriculture & Agro-Allied,2279523,0,10,0
+TXN-01174,Gusau,Agriculture & Agro-Allied,1072509,1,20,0
+TXN-01175,Bakura,Agriculture & Agro-Allied,800774,0,10,1
+TXN-01176,Kaura Namoda,Agriculture & Agro-Allied,974993,0,10,0
+TXN-01177,Bukkuyum,Transportation,403791,2,24,0
+TXN-01178,Gusau,Hospitality & Services,1434525,2,2,1
+TXN-01179,Bukkuyum,Hospitality & Services,1429087,0,8,0
+TXN-01180,Kaura Namoda,Transportation,913787,1,1,0
+TXN-01181,Zurmi,Agriculture & Agro-Allied,166220,1,1,1
+TXN-01182,Gusau,Agriculture & Agro-Allied,271421,1,4,0
+TXN-01183,Bakura,Retail & Commerce,399317,0,7,0
+TXN-01184,Zurmi,Agriculture & Agro-Allied,838428,2,9,0
+TXN-01185,Gusau,Retail & Commerce,1082469,1,16,0
+TXN-01186,Zurmi,Retail & Commerce,1381379,0,5,0
+TXN-01187,Bakura,Retail & Commerce,1405898,0,2,0
+TXN-01188,Gusau,Retail & Commerce,397186,1,23,0
+TXN-01189,Gusau,Hospitality & Services,1467191,0,11,0
+TXN-01190,Bakura,Transportation,287103,1,18,1
+TXN-01191,Gusau,Retail & Commerce,739925,1,19,1
+TXN-01192,Kaura Namoda,Small-Scale Manufacturing,2236394,1,13,0
+TXN-01193,Gusau,Small-Scale Manufacturing,1097146,1,24,0
+TXN-01194,Bakura,Retail & Commerce,1252532,2,11,0
+TXN-01195,Gusau,Retail & Commerce,1902207,0,20,0
+TXN-01196,Gummi,Retail & Commerce,810330,2,19,0
+TXN-01197,Zurmi,Small-Scale Manufacturing,2312402,1,17,1
+TXN-01198,Zurmi,Hospitality & Services,2028745,2,5,0
+TXN-01199,Bukkuyum,Agriculture & Agro-Allied,2409830,2,13,0
+TXN-01200,Gusau,Retail & Commerce,872564,0,20,0
+TXN-01201,Bukkuyum,Retail & Commerce,2445406,3,1,1
+TXN-01202,Gusau,Retail & Commerce,900012,0,10,0
+TXN-01203,Gusau,Agriculture & Agro-Allied,1514261,2,8,1
+TXN-01204,Gusau,Hospitality & Services,2193385,1,24,0
+TXN-01205,Talata Mafara,Transportation,2118884,1,8,0
+TXN-01206,Bukkuyum,Hospitality & Services,798810,5,19,1
+TXN-01207,Bakura,Hospitality & Services,1053941,1,6,0
+TXN-01208,Talata Mafara,Transportation,2253463,1,12,1
+TXN-01209,Gusau,Retail & Commerce,2035404,3,7,0
+TXN-01210,Zurmi,Retail & Commerce,1909062,0,16,0
+TXN-01211,Talata Mafara,Agriculture & Agro-Allied,2176861,1,9,0
+TXN-01212,Talata Mafara,Transportation,2101723,1,21,1
+TXN-01213,Gusau,Agriculture & Agro-Allied,2144885,1,22,0
+TXN-01214,Bukkuyum,Transportation,1098939,2,10,0
+TXN-01215,Bakura,Agriculture & Agro-Allied,544829,0,10,0
+TXN-01216,Gusau,Agriculture & Agro-Allied,446456,0,10,0
+TXN-01217,Gusau,Agriculture & Agro-Allied,1563993,2,20,0
+TXN-01218,Bakura,Agriculture & Agro-Allied,2192841,1,16,1
+TXN-01219,Bakura,Transportation,948704,1,1,0
+TXN-01220,Gusau,Transportation,225037,2,17,0
+TXN-01221,Zurmi,Retail & Commerce,258606,1,21,0
+TXN-01222,Gusau,Agriculture & Agro-Allied,1099458,2,14,0
+TXN-01223,Talata Mafara,Agriculture & Agro-Allied,1079516,0,19,1
+TXN-01224,Zurmi,Agriculture & Agro-Allied,1746609,3,21,1
+TXN-01225,Talata Mafara,Agriculture & Agro-Allied,78885,0,21,0
+TXN-01226,Bakura,Hospitality & Services,446419,3,17,0
+TXN-01227,Talata Mafara,Agriculture & Agro-Allied,445460,0,14,0
+TXN-01228,Gusau,Retail & Commerce,410466,2,8,1
+TXN-01229,Zurmi,Agriculture & Agro-Allied,1429339,1,21,0
+TXN-01230,Talata Mafara,Agriculture & Agro-Allied,2168736,0,21,0
+TXN-01231,Gummi,Retail & Commerce,1893529,0,9,0
+TXN-01232,Gusau,Retail & Commerce,869973,0,8,0
+TXN-01233,Gusau,Agriculture & Agro-Allied,1168844,1,13,1
+TXN-01234,Gusau,Agriculture & Agro-Allied,1478926,1,17,0
+TXN-01235,Bakura,Retail & Commerce,1556744,0,19,1
+TXN-01236,Talata Mafara,Agriculture & Agro-Allied,2317976,0,7,0
+TXN-01237,Gummi,Agriculture & Agro-Allied,1494359,1,17,1
+TXN-01238,Talata Mafara,Small-Scale Manufacturing,1507913,0,1,0
+TXN-01239,Zurmi,Retail & Commerce,2017754,3,5,0
+TXN-01240,Gusau,Retail & Commerce,2082355,0,6,0
+TXN-01241,Gummi,Retail & Commerce,1296729,1,2,0
+TXN-01242,Bukkuyum,Retail & Commerce,2141219,1,16,1
+TXN-01243,Bukkuyum,Retail & Commerce,1038167,1,22,0
+TXN-01244,Gummi,Transportation,73331,3,5,1
+TXN-01245,Bukkuyum,Transportation,73004,2,5,1
+TXN-01246,Bakura,Agriculture & Agro-Allied,498013,3,12,1
+TXN-01247,Gusau,Retail & Commerce,2336319,2,3,0
+TXN-01248,Gusau,Retail & Commerce,981253,1,16,0
+TXN-01249,Zurmi,Hospitality & Services,1711908,3,6,0
+TXN-01250,Kaura Namoda,Retail & Commerce,1894053,0,15,0
+TXN-01251,Bukkuyum,Retail & Commerce,2429412,2,15,1
+TXN-01252,Talata Mafara,Agriculture & Agro-Allied,592955,0,16,0
+TXN-01253,Gusau,Retail & Commerce,1435777,2,20,0
+TXN-01254,Gusau,Agriculture & Agro-Allied,1697069,1,13,0
+TXN-01255,Bakura,Retail & Commerce,1125878,1,12,0
+TXN-01256,Talata Mafara,Agriculture & Agro-Allied,646822,0,10,0
+TXN-01257,Gusau,Transportation,1848278,1,14,0
+TXN-01258,Talata Mafara,Agriculture & Agro-Allied,423145,0,2,0
+TXN-01259,Gusau,Retail & Commerce,2103413,1,3,1
+TXN-01260,Kaura Namoda,Hospitality & Services,844300,2,9,0
+TXN-01261,Gusau,Agriculture & Agro-Allied,735611,1,11,0
+TXN-01262,Bukkuyum,Retail & Commerce,2487205,0,11,0
+TXN-01263,Gusau,Retail & Commerce,1707387,1,22,1
+TXN-01264,Talata Mafara,Agriculture & Agro-Allied,1270985,2,10,1
+TXN-01265,Gusau,Transportation,395744,0,14,0
+TXN-01266,Gusau,Agriculture & Agro-Allied,2078594,0,9,0
+TXN-01267,Talata Mafara,Retail & Commerce,1893441,1,20,0
+TXN-01268,Talata Mafara,Retail & Commerce,1726850,1,21,0
+TXN-01269,Kaura Namoda,Retail & Commerce,1948761,2,10,1
+TXN-01270,Gusau,Transportation,1565412,2,22,0
+TXN-01271,Bakura,Agriculture & Agro-Allied,1906759,1,9,0
+TXN-01272,Gummi,Agriculture & Agro-Allied,482184,1,5,0
+TXN-01273,Bukkuyum,Transportation,1259725,4,8,1
+TXN-01274,Gusau,Retail & Commerce,2386806,3,11,1
+TXN-01275,Talata Mafara,Hospitality & Services,477991,2,1,1
+TXN-01276,Gusau,Hospitality & Services,1933578,1,21,1
+TXN-01277,Gusau,Hospitality & Services,708139,0,10,0
+TXN-01278,Zurmi,Retail & Commerce,2448559,0,1,0
+TXN-01279,Gusau,Retail & Commerce,2464383,1,22,0
+TXN-01280,Talata Mafara,Transportation,2070937,2,7,1
+TXN-01281,Kaura Namoda,Retail & Commerce,172989,1,14,0
+TXN-01282,Bakura,Agriculture & Agro-Allied,876547,0,5,0
+TXN-01283,Kaura Namoda,Hospitality & Services,326393,3,17,0
+TXN-01284,Gusau,Hospitality & Services,1867119,1,22,1
+TXN-01285,Gusau,Retail & Commerce,1909608,0,21,0
+TXN-01286,Kaura Namoda,Agriculture & Agro-Allied,349850,0,6,0
+TXN-01287,Gusau,Retail & Commerce,1459761,0,16,0
+TXN-01288,Talata Mafara,Hospitality & Services,91139,1,11,1
+TXN-01289,Gusau,Small-Scale Manufacturing,689207,2,10,0
+TXN-01290,Gusau,Agriculture & Agro-Allied,821965,0,15,0
+TXN-01291,Talata Mafara,Agriculture & Agro-Allied,353446,1,7,1
+TXN-01292,Gusau,Hospitality & Services,1448558,2,23,0
+TXN-01293,Kaura Namoda,Retail & Commerce,1035663,1,2,1
+TXN-01294,Bakura,Retail & Commerce,1767479,1,12,1
+TXN-01295,Bukkuyum,Small-Scale Manufacturing,1848432,0,19,0
+TXN-01296,Gusau,Agriculture & Agro-Allied,1095716,0,12,0
+TXN-01297,Gusau,Retail & Commerce,2205091,1,16,0
+TXN-01298,Gusau,Agriculture & Agro-Allied,1971458,0,6,1
+TXN-01299,Bakura,Retail & Commerce,2045633,3,3,0
+TXN-01300,Bakura,Hospitality & Services,2170700,2,2,1
+TXN-01301,Gusau,Retail & Commerce,2053345,2,20,1
+TXN-01302,Zurmi,Small-Scale Manufacturing,1748413,0,5,0
+TXN-01303,Gusau,Retail & Commerce,494503,1,11,0
+TXN-01304,Kaura Namoda,Retail & Commerce,187799,3,3,1
+TXN-01305,Bakura,Agriculture & Agro-Allied,815820,0,3,0
+TXN-01306,Gummi,Retail & Commerce,231789,2,22,0
+TXN-01307,Bakura,Retail & Commerce,484352,1,5,0
+TXN-01308,Bukkuyum,Agriculture & Agro-Allied,1999834,0,22,1
+TXN-01309,Gusau,Retail & Commerce,1737745,0,23,1
+TXN-01310,Bukkuyum,Retail & Commerce,1544201,0,11,1
+TXN-01311,Gusau,Transportation,852009,0,3,0
+TXN-01312,Gummi,Transportation,161776,1,13,0
+TXN-01313,Kaura Namoda,Transportation,935678,2,21,0
+TXN-01314,Bukkuyum,Agriculture & Agro-Allied,1856860,3,8,1
+TXN-01315,Talata Mafara,Agriculture & Agro-Allied,262803,0,20,0
+TXN-01316,Bakura,Transportation,2305913,4,10,0
+TXN-01317,Kaura Namoda,Retail & Commerce,71341,1,2,0
+TXN-01318,Bukkuyum,Agriculture & Agro-Allied,1304329,0,4,0
+TXN-01319,Gusau,Hospitality & Services,2455626,1,18,1
+TXN-01320,Gusau,Transportation,869745,2,19,0
+TXN-01321,Gusau,Retail & Commerce,2456196,3,4,1
+TXN-01322,Gusau,Agriculture & Agro-Allied,128840,1,20,0
+TXN-01323,Gummi,Transportation,1264343,1,9,0
+TXN-01324,Gusau,Retail & Commerce,211297,1,16,0
+TXN-01325,Zurmi,Transportation,1981375,1,6,0
+TXN-01326,Gusau,Transportation,99156,2,4,0
+TXN-01327,Gusau,Hospitality & Services,2355433,0,9,0
+TXN-01328,Bukkuyum,Retail & Commerce,2234605,3,13,1
+TXN-01329,Bakura,Agriculture & Agro-Allied,1781765,0,9,0
+TXN-01330,Talata Mafara,Transportation,75938,4,6,1
+TXN-01331,Kaura Namoda,Retail & Commerce,2206316,1,21,0
+TXN-01332,Bakura,Transportation,2137001,1,19,1
+TXN-01333,Gusau,Agriculture & Agro-Allied,452681,0,14,0
+TXN-01334,Zurmi,Agriculture & Agro-Allied,1781530,2,21,0
+TXN-01335,Zurmi,Hospitality & Services,1214395,2,15,1
+TXN-01336,Bakura,Transportation,191900,2,3,1
+TXN-01337,Gusau,Small-Scale Manufacturing,1408308,1,5,1
+TXN-01338,Bakura,Transportation,2185012,3,21,1
+TXN-01339,Gusau,Retail & Commerce,2349782,3,18,1
+TXN-01340,Gusau,Transportation,1621801,2,14,1
+TXN-01341,Gusau,Hospitality & Services,2068391,1,16,0
+TXN-01342,Talata Mafara,Retail & Commerce,718875,1,14,1
+TXN-01343,Gummi,Retail & Commerce,645983,1,9,0
+TXN-01344,Bukkuyum,Agriculture & Agro-Allied,303078,1,15,0
+TXN-01345,Bukkuyum,Retail & Commerce,418893,0,7,0
+TXN-01346,Talata Mafara,Transportation,1254552,3,14,1
+TXN-01347,Gusau,Agriculture & Agro-Allied,765295,3,6,0
+TXN-01348,Talata Mafara,Agriculture & Agro-Allied,1928798,3,21,1
+TXN-01349,Zurmi,Retail & Commerce,1042652,0,15,0
+TXN-01350,Gusau,Agriculture & Agro-Allied,1104212,1,20,1
+TXN-01351,Gummi,Agriculture & Agro-Allied,2408730,0,8,0
+TXN-01352,Kaura Namoda,Retail & Commerce,2130563,0,2,0
+TXN-01353,Talata Mafara,Small-Scale Manufacturing,2018972,1,8,0
+TXN-01354,Bukkuyum,Retail & Commerce,333816,1,1,0
+TXN-01355,Talata Mafara,Agriculture & Agro-Allied,1890820,1,17,1
+TXN-01356,Gummi,Agriculture & Agro-Allied,571393,0,19,0
+TXN-01357,Gummi,Transportation,1099230,2,5,1
+TXN-01358,Talata Mafara,Retail & Commerce,175851,1,22,0
+TXN-01359,Gusau,Hospitality & Services,716978,3,20,1
+TXN-01360,Kaura Namoda,Transportation,844878,1,16,0
+TXN-01361,Gummi,Transportation,2103262,2,7,1
+TXN-01362,Gusau,Agriculture & Agro-Allied,1987135,1,7,1
+TXN-01363,Bakura,Transportation,2458163,1,18,0
+TXN-01364,Bakura,Agriculture & Agro-Allied,2305424,1,18,1
+TXN-01365,Bukkuyum,Small-Scale Manufacturing,276179,2,2,1
+TXN-01366,Gusau,Retail & Commerce,924506,1,15,0
+TXN-01367,Bakura,Retail & Commerce,2122171,1,14,1
+TXN-01368,Gummi,Agriculture & Agro-Allied,1815401,2,18,1
+TXN-01369,Gusau,Agriculture & Agro-Allied,1316084,2,9,1
+TXN-01370,Gusau,Transportation,1741286,0,14,1
+TXN-01371,Zurmi,Agriculture & Agro-Allied,400036,2,5,1
+TXN-01372,Gusau,Retail & Commerce,2186300,0,11,0
+TXN-01373,Gummi,Agriculture & Agro-Allied,1967936,0,8,0
+TXN-01374,Talata Mafara,Transportation,1250346,1,5,0
+TXN-01375,Gusau,Hospitality & Services,535287,2,11,0
+TXN-01376,Gummi,Transportation,2069990,1,5,1
+TXN-01377,Talata Mafara,Transportation,1810399,1,17,1
+TXN-01378,Kaura Namoda,Agriculture & Agro-Allied,345901,2,22,0
+TXN-01379,Talata Mafara,Agriculture & Agro-Allied,2225164,0,4,0
+TXN-01380,Kaura Namoda,Transportation,1991758,1,15,0
+TXN-01381,Gusau,Retail & Commerce,2203268,2,19,1
+TXN-01382,Talata Mafara,Retail & Commerce,2291385,3,22,1
+TXN-01383,Zurmi,Agriculture & Agro-Allied,1130728,0,2,0
+TXN-01384,Gusau,Agriculture & Agro-Allied,2253531,0,24,1
+TXN-01385,Bakura,Agriculture & Agro-Allied,1325481,1,17,0
+TXN-01386,Gusau,Hospitality & Services,1119412,1,12,0
+TXN-01387,Bukkuyum,Agriculture & Agro-Allied,271439,1,24,1
+TXN-01388,Gusau,Retail & Commerce,2082623,0,17,0
+TXN-01389,Zurmi,Agriculture & Agro-Allied,1285296,1,10,0
+TXN-01390,Talata Mafara,Transportation,2122072,1,18,1
+TXN-01391,Gusau,Retail & Commerce,1240411,1,19,0
+TXN-01392,Gusau,Hospitality & Services,667397,0,18,0
+TXN-01393,Gusau,Hospitality & Services,1241605,0,13,0
+TXN-01394,Kaura Namoda,Retail & Commerce,447595,2,14,1
+TXN-01395,Gusau,Small-Scale Manufacturing,2044039,0,24,1
+TXN-01396,Gummi,Small-Scale Manufacturing,1781041,1,16,0
+TXN-01397,Talata Mafara,Hospitality & Services,1802289,2,18,1
+TXN-01398,Gusau,Hospitality & Services,1968796,0,18,0
+TXN-01399,Kaura Namoda,Agriculture & Agro-Allied,2467209,2,16,1
+TXN-01400,Bakura,Retail & Commerce,576925,1,17,0
+TXN-01401,Gusau,Agriculture & Agro-Allied,806547,0,7,0
+TXN-01402,Gusau,Agriculture & Agro-Allied,656752,1,12,0
+TXN-01403,Gusau,Small-Scale Manufacturing,1389462,2,2,1
+TXN-01404,Bukkuyum,Retail & Commerce,2260920,0,10,0
+TXN-01405,Bakura,Transportation,1973378,1,5,1
+TXN-01406,Talata Mafara,Hospitality & Services,1014266,1,21,0
+TXN-01407,Gummi,Hospitality & Services,679112,1,3,0
+TXN-01408,Bukkuyum,Small-Scale Manufacturing,1066462,0,19,0
+TXN-01409,Kaura Namoda,Agriculture & Agro-Allied,1187317,0,13,0
+TXN-01410,Gummi,Agriculture & Agro-Allied,1415764,0,12,0
+TXN-01411,Gusau,Retail & Commerce,2216354,1,3,0
+TXN-01412,Gusau,Agriculture & Agro-Allied,349189,0,6,0
+TXN-01413,Gusau,Agriculture & Agro-Allied,2364546,0,14,1
+TXN-01414,Gusau,Retail & Commerce,1609049,3,4,1
+TXN-01415,Kaura Namoda,Transportation,1992517,1,13,0
+TXN-01416,Zurmi,Retail & Commerce,2304851,2,19,0
+TXN-01417,Gusau,Retail & Commerce,2424494,0,18,0
+TXN-01418,Gusau,Transportation,905953,0,3,0
+TXN-01419,Talata Mafara,Agriculture & Agro-Allied,554655,2,20,1
+TXN-01420,Zurmi,Agriculture & Agro-Allied,286824,0,6,0
+TXN-01421,Gusau,Transportation,1117979,2,16,1
+TXN-01422,Kaura Namoda,Retail & Commerce,403699,1,20,0
+TXN-01423,Gusau,Transportation,1738124,3,24,1
+TXN-01424,Gusau,Agriculture & Agro-Allied,1856242,2,3,1
+TXN-01425,Zurmi,Hospitality & Services,143246,1,12,1
+TXN-01426,Zurmi,Retail & Commerce,1194440,2,19,1
+TXN-01427,Gusau,Retail & Commerce,258886,1,19,0
+TXN-01428,Zurmi,Retail & Commerce,2417713,1,24,0
+TXN-01429,Bakura,Hospitality & Services,1479608,0,4,0
+TXN-01430,Gummi,Retail & Commerce,1264413,1,1,0
+TXN-01431,Talata Mafara,Retail & Commerce,910931,1,2,0
+TXN-01432,Kaura Namoda,Small-Scale Manufacturing,2334798,2,13,1
+TXN-01433,Talata Mafara,Transportation,1070332,0,13,0
+TXN-01434,Bakura,Retail & Commerce,1582337,2,2,1
+TXN-01435,Gusau,Transportation,833566,1,19,1
+TXN-01436,Gusau,Retail & Commerce,2117791,1,22,0
+TXN-01437,Gusau,Agriculture & Agro-Allied,585620,0,24,0
+TXN-01438,Bakura,Retail & Commerce,829105,0,16,0
+TXN-01439,Gusau,Small-Scale Manufacturing,966992,0,12,0
+TXN-01440,Bakura,Small-Scale Manufacturing,270326,0,1,0
+TXN-01441,Zurmi,Retail & Commerce,1360425,1,9,0
+TXN-01442,Gusau,Retail & Commerce,369248,0,17,0
+TXN-01443,Bakura,Agriculture & Agro-Allied,2493631,0,10,0
+TXN-01444,Talata Mafara,Small-Scale Manufacturing,1496743,2,18,0
+TXN-01445,Gummi,Small-Scale Manufacturing,1336050,1,19,0
+TXN-01446,Gusau,Retail & Commerce,340477,1,7,0
+TXN-01447,Bakura,Hospitality & Services,2430969,3,19,1
+TXN-01448,Gummi,Transportation,950853,2,24,0
+TXN-01449,Zurmi,Retail & Commerce,1663734,1,15,0
+TXN-01450,Bakura,Agriculture & Agro-Allied,303017,0,9,1
+TXN-01451,Talata Mafara,Retail & Commerce,701824,0,10,1
+TXN-01452,Kaura Namoda,Transportation,383245,1,23,0
+TXN-01453,Gummi,Transportation,1722341,1,20,1
+TXN-01454,Kaura Namoda,Retail & Commerce,1486803,1,20,1
+TXN-01455,Gusau,Small-Scale Manufacturing,424842,1,4,1
+TXN-01456,Zurmi,Agriculture & Agro-Allied,1492627,0,6,0
+TXN-01457,Bakura,Retail & Commerce,2427942,1,4,0
+TXN-01458,Bakura,Transportation,2270929,2,5,1
+TXN-01459,Gusau,Transportation,1700224,2,9,1
+TXN-01460,Bakura,Retail & Commerce,1398055,2,12,1
+TXN-01461,Talata Mafara,Agriculture & Agro-Allied,905783,0,23,0
+TXN-01462,Bakura,Agriculture & Agro-Allied,951366,2,8,0
+TXN-01463,Gusau,Retail & Commerce,2280653,0,21,0
+TXN-01464,Bakura,Retail & Commerce,1402670,1,5,0
+TXN-01465,Zurmi,Agriculture & Agro-Allied,634942,2,11,0
+TXN-01466,Gusau,Transportation,419566,3,23,0
+TXN-01467,Zurmi,Retail & Commerce,1470654,2,11,1
+TXN-01468,Talata Mafara,Transportation,2267127,0,13,0
+TXN-01469,Gummi,Hospitality & Services,773503,0,14,0
+TXN-01470,Bukkuyum,Agriculture & Agro-Allied,1725190,2,8,1
+TXN-01471,Kaura Namoda,Agriculture & Agro-Allied,398848,2,18,0
+TXN-01472,Bukkuyum,Transportation,2047179,1,19,1
+TXN-01473,Gummi,Retail & Commerce,1531177,1,12,0
+TXN-01474,Talata Mafara,Transportation,216991,1,12,0
+TXN-01475,Gusau,Hospitality & Services,146952,0,18,0
+TXN-01476,Bakura,Hospitality & Services,2480412,1,10,0
+TXN-01477,Bukkuyum,Small-Scale Manufacturing,515806,1,7,0
+TXN-01478,Bukkuyum,Retail & Commerce,926058,1,18,0
+TXN-01479,Bukkuyum,Retail & Commerce,1769759,1,12,0
+TXN-01480,Talata Mafara,Retail & Commerce,2193167,3,14,1
+TXN-01481,Bukkuyum,Agriculture & Agro-Allied,152877,1,15,0
+TXN-01482,Gusau,Retail & Commerce,1376059,1,16,0
+TXN-01483,Kaura Namoda,Agriculture & Agro-Allied,443922,2,2,1
+TXN-01484,Gusau,Small-Scale Manufacturing,974501,1,18,0
+TXN-01485,Gusau,Retail & Commerce,1595329,3,12,0
+TXN-01486,Talata Mafara,Retail & Commerce,441670,0,16,0
+TXN-01487,Talata Mafara,Retail & Commerce,481739,2,13,0
+TXN-01488,Bakura,Agriculture & Agro-Allied,1744512,2,20,1
+TXN-01489,Talata Mafara,Agriculture & Agro-Allied,661796,0,17,0
+TXN-01490,Talata Mafara,Retail & Commerce,789127,0,18,0
+TXN-01491,Gusau,Agriculture & Agro-Allied,1400339,2,3,0
+TXN-01492,Talata Mafara,Retail & Commerce,90633,3,23,0
+TXN-01493,Gusau,Hospitality & Services,1307302,1,10,0
+TXN-01494,Gusau,Hospitality & Services,1101893,2,1,1
+TXN-01495,Kaura Namoda,Transportation,357124,1,6,1
+TXN-01496,Bakura,Agriculture & Agro-Allied,1928166,1,3,0
+TXN-01497,Kaura Namoda,Hospitality & Services,761323,1,19,0
+TXN-01498,Talata Mafara,Hospitality & Services,1466084,0,4,0
+TXN-01499,Talata Mafara,Agriculture & Agro-Allied,1922204,1,20,1
+TXN-01500,Gummi,Transportation,1950946,0,23,0
+TXN-01501,Kaura Namoda,Agriculture & Agro-Allied,976109,1,3,0
+TXN-01502,Talata Mafara,Hospitality & Services,1310945,0,8,0
+TXN-01503,Gusau,Small-Scale Manufacturing,758669,1,8,0
+TXN-01504,Gusau,Agriculture & Agro-Allied,2174195,3,7,1
+TXN-01505,Talata Mafara,Hospitality & Services,83635,0,2,1
+TXN-01506,Talata Mafara,Retail & Commerce,2357539,0,21,1
+TXN-01507,Kaura Namoda,Small-Scale Manufacturing,1056891,3,6,1
+TXN-01508,Kaura Namoda,Retail & Commerce,777467,0,16,0
+TXN-01509,Kaura Namoda,Hospitality & Services,505796,1,10,1
+TXN-01510,Bukkuyum,Agriculture & Agro-Allied,2073969,0,4,0
+TXN-01511,Bukkuyum,Retail & Commerce,1047057,3,13,1
+TXN-01512,Bakura,Agriculture & Agro-Allied,1137812,2,10,0
+TXN-01513,Zurmi,Small-Scale Manufacturing,1364870,2,21,1
+TXN-01514,Gusau,Hospitality & Services,604280,4,14,1
+TXN-01515,Gusau,Hospitality & Services,1995548,0,9,1
+TXN-01516,Gusau,Small-Scale Manufacturing,2262292,1,11,0
+TXN-01517,Bakura,Agriculture & Agro-Allied,225993,2,23,0
+TXN-01518,Gummi,Retail & Commerce,1744089,1,18,0
+TXN-01519,Gusau,Agriculture & Agro-Allied,1434410,2,11,0
+TXN-01520,Zurmi,Agriculture & Agro-Allied,1394955,2,17,1
+TXN-01521,Gusau,Agriculture & Agro-Allied,2357199,0,2,1
+TXN-01522,Zurmi,Retail & Commerce,1641986,2,3,1
+TXN-01523,Talata Mafara,Agriculture & Agro-Allied,336100,0,11,1
+TXN-01524,Gusau,Agriculture & Agro-Allied,113879,2,18,1
+TXN-01525,Talata Mafara,Agriculture & Agro-Allied,2098880,0,3,0
+TXN-01526,Gusau,Agriculture & Agro-Allied,774045,2,15,1
+TXN-01527,Gusau,Small-Scale Manufacturing,1095533,1,11,0
+TXN-01528,Gusau,Transportation,1335844,2,11,0
+TXN-01529,Bukkuyum,Small-Scale Manufacturing,529280,3,20,1
+TXN-01530,Kaura Namoda,Retail & Commerce,1606232,1,11,1
+TXN-01531,Gusau,Agriculture & Agro-Allied,837600,1,19,0
+TXN-01532,Kaura Namoda,Transportation,357268,1,1,1
+TXN-01533,Bakura,Retail & Commerce,1413517,1,5,1
+TXN-01534,Gusau,Agriculture & Agro-Allied,1535619,3,10,1
+TXN-01535,Talata Mafara,Agriculture & Agro-Allied,1888524,1,10,0
+TXN-01536,Gusau,Agriculture & Agro-Allied,1249399,0,14,0
+TXN-01537,Gusau,Agriculture & Agro-Allied,172026,2,2,0
+TXN-01538,Bakura,Retail & Commerce,977890,2,4,0
+TXN-01539,Gusau,Transportation,1331507,0,2,0
+TXN-01540,Kaura Namoda,Agriculture & Agro-Allied,1818753,1,18,0
+TXN-01541,Bakura,Agriculture & Agro-Allied,785053,0,13,0
+TXN-01542,Gusau,Hospitality & Services,612167,1,19,0
+TXN-01543,Kaura Namoda,Agriculture & Agro-Allied,361741,1,5,0
+TXN-01544,Gusau,Retail & Commerce,1006636,1,20,1
+TXN-01545,Zurmi,Hospitality & Services,53626,3,2,0
+TXN-01546,Talata Mafara,Agriculture & Agro-Allied,1708800,0,11,0
+TXN-01547,Bukkuyum,Agriculture & Agro-Allied,1593971,1,18,0
+TXN-01548,Kaura Namoda,Retail & Commerce,1857737,3,6,1
+TXN-01549,Gusau,Retail & Commerce,2355289,0,23,0
+TXN-01550,Bakura,Retail & Commerce,1677008,1,10,0
+TXN-01551,Zurmi,Hospitality & Services,194454,0,22,0
+TXN-01552,Kaura Namoda,Agriculture & Agro-Allied,486442,1,23,1
+TXN-01553,Bukkuyum,Retail & Commerce,304043,1,17,0
+TXN-01554,Gummi,Retail & Commerce,693198,4,22,0
+TXN-01555,Gusau,Agriculture & Agro-Allied,670343,1,11,0
+TXN-01556,Gusau,Retail & Commerce,1486909,0,19,0
+TXN-01557,Kaura Namoda,Agriculture & Agro-Allied,780070,1,17,0
+TXN-01558,Talata Mafara,Retail & Commerce,1895733,1,24,0
+TXN-01559,Gummi,Agriculture & Agro-Allied,1656325,1,4,0
+TXN-01560,Gummi,Retail & Commerce,160084,0,24,0
+TXN-01561,Talata Mafara,Retail & Commerce,1064391,0,14,0
+TXN-01562,Gusau,Hospitality & Services,2493028,0,20,0
+TXN-01563,Bukkuyum,Agriculture & Agro-Allied,523006,0,4,0
+TXN-01564,Gusau,Retail & Commerce,1440277,1,14,1
+TXN-01565,Gummi,Retail & Commerce,1782626,1,4,0
+TXN-01566,Talata Mafara,Transportation,123568,2,6,0
+TXN-01567,Bakura,Retail & Commerce,1247442,1,9,0
+TXN-01568,Gusau,Transportation,1249529,1,21,1
+TXN-01569,Bakura,Transportation,1840228,2,12,1
+TXN-01570,Talata Mafara,Hospitality & Services,2373176,1,8,0
+TXN-01571,Kaura Namoda,Retail & Commerce,1279351,2,24,0
+TXN-01572,Gusau,Retail & Commerce,1011858,0,4,0
+TXN-01573,Bukkuyum,Hospitality & Services,2238440,2,5,1
+TXN-01574,Gummi,Small-Scale Manufacturing,521678,0,6,1
+TXN-01575,Gusau,Hospitality & Services,1479740,2,5,1
+TXN-01576,Gusau,Retail & Commerce,1872700,1,19,0
+TXN-01577,Gusau,Agriculture & Agro-Allied,64390,1,8,0
+TXN-01578,Bakura,Retail & Commerce,547619,3,9,1
+TXN-01579,Kaura Namoda,Transportation,268547,0,15,0
+TXN-01580,Kaura Namoda,Retail & Commerce,601595,1,4,1
+TXN-01581,Gusau,Retail & Commerce,277436,2,9,0
+TXN-01582,Talata Mafara,Hospitality & Services,2372273,0,7,0
+TXN-01583,Kaura Namoda,Retail & Commerce,2134820,0,8,0
+TXN-01584,Talata Mafara,Hospitality & Services,2398215,3,15,0
+TXN-01585,Zurmi,Retail & Commerce,1645350,1,19,1
+TXN-01586,Gusau,Retail & Commerce,1472533,0,15,0
+TXN-01587,Bakura,Retail & Commerce,2375452,1,5,0
+TXN-01588,Talata Mafara,Transportation,2251072,0,19,0
+TXN-01589,Talata Mafara,Agriculture & Agro-Allied,1835430,2,7,0
+TXN-01590,Bakura,Agriculture & Agro-Allied,1068056,1,6,0
+TXN-01591,Bakura,Small-Scale Manufacturing,1443488,4,19,1
+TXN-01592,Zurmi,Agriculture & Agro-Allied,978252,1,17,0
+TXN-01593,Gusau,Retail & Commerce,637073,1,10,1
+TXN-01594,Gusau,Retail & Commerce,650338,1,19,0
+TXN-01595,Bukkuyum,Retail & Commerce,597026,2,11,0
+TXN-01596,Kaura Namoda,Retail & Commerce,124231,1,15,0
+TXN-01597,Gusau,Agriculture & Agro-Allied,2220758,0,10,0
+TXN-01598,Gusau,Retail & Commerce,1402382,2,11,1
+TXN-01599,Gusau,Retail & Commerce,1900131,1,23,1
+TXN-01600,Gummi,Transportation,543896,0,3,0
+TXN-01601,Gusau,Agriculture & Agro-Allied,2303840,2,3,1
+TXN-01602,Gusau,Retail & Commerce,2309555,1,18,1
+TXN-01603,Gusau,Agriculture & Agro-Allied,1130132,1,11,0
+TXN-01604,Talata Mafara,Agriculture & Agro-Allied,1357046,0,20,0
+TXN-01605,Gusau,Agriculture & Agro-Allied,1775812,0,22,0
+TXN-01606,Kaura Namoda,Agriculture & Agro-Allied,626250,1,18,0
+TXN-01607,Gusau,Hospitality & Services,1712918,3,15,1
+TXN-01608,Bukkuyum,Agriculture & Agro-Allied,567200,1,7,0
+TXN-01609,Gusau,Small-Scale Manufacturing,1646963,1,10,1
+TXN-01610,Kaura Namoda,Small-Scale Manufacturing,1334519,5,21,1
+TXN-01611,Gummi,Retail & Commerce,980220,3,23,1
+TXN-01612,Bakura,Agriculture & Agro-Allied,233683,3,20,1
+TXN-01613,Kaura Namoda,Retail & Commerce,1413864,2,10,0
+TXN-01614,Gusau,Transportation,582125,2,13,0
+TXN-01615,Gusau,Retail & Commerce,1279003,1,15,0
+TXN-01616,Bakura,Agriculture & Agro-Allied,1276947,1,23,1
+TXN-01617,Zurmi,Retail & Commerce,2010220,0,18,1
+TXN-01618,Bakura,Hospitality & Services,822291,3,23,0
+TXN-01619,Kaura Namoda,Transportation,1083879,1,4,0
+TXN-01620,Bukkuyum,Agriculture & Agro-Allied,2198164,1,20,0
+TXN-01621,Talata Mafara,Transportation,2277345,1,17,1
+TXN-01622,Gusau,Agriculture & Agro-Allied,268168,0,3,0
+TXN-01623,Kaura Namoda,Agriculture & Agro-Allied,198178,1,21,0
+TXN-01624,Zurmi,Hospitality & Services,108123,0,21,0
+TXN-01625,Gusau,Agriculture & Agro-Allied,2258977,3,2,0
+TXN-01626,Bakura,Agriculture & Agro-Allied,1267309,3,4,0
+TXN-01627,Gusau,Agriculture & Agro-Allied,2372018,3,1,1
+TXN-01628,Kaura Namoda,Hospitality & Services,988624,0,15,0
+TXN-01629,Gusau,Transportation,1249438,0,1,0
+TXN-01630,Talata Mafara,Retail & Commerce,765003,0,6,0
+TXN-01631,Bukkuyum,Transportation,1716312,1,7,1
+TXN-01632,Gusau,Agriculture & Agro-Allied,2325598,0,19,1
+TXN-01633,Bakura,Retail & Commerce,748267,0,12,0
+TXN-01634,Bukkuyum,Retail & Commerce,346956,0,1,0
+TXN-01635,Zurmi,Agriculture & Agro-Allied,886002,0,7,0
+TXN-01636,Gusau,Retail & Commerce,1411621,2,19,1
+TXN-01637,Talata Mafara,Small-Scale Manufacturing,1220642,1,13,1
+TXN-01638,Gusau,Agriculture & Agro-Allied,440508,0,12,0
+TXN-01639,Zurmi,Agriculture & Agro-Allied,1804187,3,12,0
+TXN-01640,Zurmi,Agriculture & Agro-Allied,1819107,0,22,1
+TXN-01641,Kaura Namoda,Agriculture & Agro-Allied,86160,3,13,1
+TXN-01642,Gummi,Small-Scale Manufacturing,69156,3,14,0
+TXN-01643,Kaura Namoda,Retail & Commerce,509822,3,22,1
+TXN-01644,Bakura,Retail & Commerce,1329802,2,12,0
+TXN-01645,Gusau,Transportation,1864630,2,20,0
+TXN-01646,Bukkuyum,Agriculture & Agro-Allied,1560267,2,12,1
+TXN-01647,Gusau,Retail & Commerce,769701,3,6,1
+TXN-01648,Gummi,Retail & Commerce,931809,1,10,1
+TXN-01649,Bukkuyum,Retail & Commerce,355007,1,20,0
+TXN-01650,Bakura,Small-Scale Manufacturing,787197,2,24,0
+TXN-01651,Gusau,Transportation,2212591,0,9,1
+TXN-01652,Gusau,Retail & Commerce,695649,2,2,0
+TXN-01653,Gusau,Hospitality & Services,262986,3,7,1
+TXN-01654,Talata Mafara,Agriculture & Agro-Allied,1981184,1,9,0
+TXN-01655,Gusau,Agriculture & Agro-Allied,79777,1,12,0
+TXN-01656,Zurmi,Agriculture & Agro-Allied,470661,3,5,0
+TXN-01657,Kaura Namoda,Retail & Commerce,248110,0,1,0
+TXN-01658,Gusau,Retail & Commerce,1083981,0,22,0
+TXN-01659,Talata Mafara,Retail & Commerce,464627,2,15,1
+TXN-01660,Talata Mafara,Small-Scale Manufacturing,2425163,3,8,1
+TXN-01661,Kaura Namoda,Retail & Commerce,740568,2,1,0
+TXN-01662,Kaura Namoda,Retail & Commerce,1744408,0,18,0
+TXN-01663,Gummi,Agriculture & Agro-Allied,1761303,1,13,1
+TXN-01664,Talata Mafara,Agriculture & Agro-Allied,609650,1,1,0
+TXN-01665,Zurmi,Retail & Commerce,2397601,1,5,0
+TXN-01666,Gummi,Retail & Commerce,2460884,1,18,0
+TXN-01667,Gusau,Hospitality & Services,1267933,0,16,0
+TXN-01668,Zurmi,Agriculture & Agro-Allied,1749547,1,10,0
+TXN-01669,Gusau,Agriculture & Agro-Allied,255827,1,4,0
+TXN-01670,Bukkuyum,Retail & Commerce,2350070,3,1,1
+TXN-01671,Talata Mafara,Agriculture & Agro-Allied,392424,0,23,0
+TXN-01672,Gummi,Agriculture & Agro-Allied,1511659,0,8,0
+TXN-01673,Gummi,Transportation,2100241,0,5,0
+TXN-01674,Bukkuyum,Agriculture & Agro-Allied,790045,0,2,0
+TXN-01675,Bukkuyum,Retail & Commerce,1206245,1,24,0
+TXN-01676,Gusau,Agriculture & Agro-Allied,782318,1,17,1
+TXN-01677,Gusau,Agriculture & Agro-Allied,208998,1,7,0
+TXN-01678,Talata Mafara,Retail & Commerce,1726079,0,17,0
+TXN-01679,Gusau,Hospitality & Services,672995,1,6,1
+TXN-01680,Bakura,Retail & Commerce,2053011,0,22,0
+TXN-01681,Gusau,Transportation,2040094,2,15,1
+TXN-01682,Zurmi,Agriculture & Agro-Allied,2392999,0,5,0
+TXN-01683,Bakura,Transportation,1326120,4,15,0
+TXN-01684,Gummi,Agriculture & Agro-Allied,1026006,0,18,1
+TXN-01685,Gusau,Transportation,924168,1,18,1
+TXN-01686,Gummi,Retail & Commerce,317614,2,21,0
+TXN-01687,Zurmi,Small-Scale Manufacturing,1244601,4,21,0
+TXN-01688,Talata Mafara,Retail & Commerce,1858516,0,23,0
+TXN-01689,Kaura Namoda,Agriculture & Agro-Allied,1006011,2,6,0
+TXN-01690,Bukkuyum,Agriculture & Agro-Allied,842955,1,2,1
+TXN-01691,Gusau,Hospitality & Services,1316571,0,17,0
+TXN-01692,Kaura Namoda,Retail & Commerce,1811126,1,21,0
+TXN-01693,Talata Mafara,Transportation,343313,1,4,0
+TXN-01694,Gusau,Agriculture & Agro-Allied,1668505,1,12,0
+TXN-01695,Talata Mafara,Retail & Commerce,204062,1,19,0
+TXN-01696,Gusau,Agriculture & Agro-Allied,1652525,0,2,0
+TXN-01697,Gusau,Small-Scale Manufacturing,1767355,1,2,0
+TXN-01698,Gusau,Transportation,904032,2,14,0
+TXN-01699,Zurmi,Small-Scale Manufacturing,1726483,2,15,0
+TXN-01700,Kaura Namoda,Agriculture & Agro-Allied,756014,0,20,0
+TXN-01701,Zurmi,Retail & Commerce,1497922,2,2,0
+TXN-01702,Talata Mafara,Transportation,183114,1,4,1
+TXN-01703,Gusau,Retail & Commerce,541638,2,19,1
+TXN-01704,Kaura Namoda,Hospitality & Services,1937717,1,9,0
+TXN-01705,Talata Mafara,Small-Scale Manufacturing,734076,0,7,0
+TXN-01706,Gusau,Hospitality & Services,1438857,2,13,0
+TXN-01707,Bakura,Transportation,189133,2,12,1
+TXN-01708,Gusau,Agriculture & Agro-Allied,395165,2,3,0
+TXN-01709,Kaura Namoda,Agriculture & Agro-Allied,1512597,5,13,1
+TXN-01710,Bakura,Small-Scale Manufacturing,320001,2,15,0
+TXN-01711,Gusau,Agriculture & Agro-Allied,1765556,0,14,1
+TXN-01712,Gusau,Transportation,1631041,2,24,1
+TXN-01713,Bukkuyum,Transportation,473327,3,9,0
+TXN-01714,Talata Mafara,Retail & Commerce,1449298,1,13,1
+TXN-01715,Gusau,Small-Scale Manufacturing,1712805,0,23,0
+TXN-01716,Zurmi,Retail & Commerce,832409,1,22,0
+TXN-01717,Gusau,Retail & Commerce,1767826,3,4,1
+TXN-01718,Bakura,Agriculture & Agro-Allied,2491724,0,21,1
+TXN-01719,Zurmi,Retail & Commerce,700332,0,8,0
+TXN-01720,Gusau,Agriculture & Agro-Allied,763391,1,3,0
+TXN-01721,Gusau,Retail & Commerce,1611232,0,2,0
+TXN-01722,Gusau,Hospitality & Services,555350,1,19,0
+TXN-01723,Gusau,Small-Scale Manufacturing,387164,1,23,1
+TXN-01724,Gusau,Agriculture & Agro-Allied,2284967,0,8,1
+TXN-01725,Bakura,Retail & Commerce,2070880,0,17,1
+TXN-01726,Gusau,Small-Scale Manufacturing,2466338,1,13,0
+TXN-01727,Kaura Namoda,Agriculture & Agro-Allied,99476,3,7,1
+TXN-01728,Zurmi,Agriculture & Agro-Allied,2437848,1,9,1
+TXN-01729,Bukkuyum,Agriculture & Agro-Allied,1537564,2,12,1
+TXN-01730,Kaura Namoda,Retail & Commerce,2059810,1,14,1
+TXN-01731,Gusau,Agriculture & Agro-Allied,1305959,0,14,0
+TXN-01732,Bakura,Small-Scale Manufacturing,119093,0,15,0
+TXN-01733,Kaura Namoda,Retail & Commerce,2163687,1,3,1
+TXN-01734,Talata Mafara,Retail & Commerce,2475786,0,15,1
+TXN-01735,Gusau,Agriculture & Agro-Allied,1669426,1,19,1
+TXN-01736,Gummi,Retail & Commerce,1479762,1,24,0
+TXN-01737,Talata Mafara,Transportation,306323,0,20,0
+TXN-01738,Gusau,Transportation,1974088,1,14,1
+TXN-01739,Talata Mafara,Transportation,2406068,1,8,1
+TXN-01740,Talata Mafara,Retail & Commerce,2188421,1,5,1
+TXN-01741,Gummi,Small-Scale Manufacturing,1179250,2,19,0
+TXN-01742,Bukkuyum,Hospitality & Services,878894,1,4,1
+TXN-01743,Bukkuyum,Transportation,970631,1,14,0
+TXN-01744,Gusau,Agriculture & Agro-Allied,335291,1,16,1
+TXN-01745,Talata Mafara,Agriculture & Agro-Allied,1699959,2,20,1
+TXN-01746,Talata Mafara,Agriculture & Agro-Allied,2238077,2,24,1
+TXN-01747,Gusau,Transportation,640669,0,6,1
+TXN-01748,Gusau,Retail & Commerce,1340906,3,23,0
+TXN-01749,Bukkuyum,Retail & Commerce,1112307,0,6,0
+TXN-01750,Gusau,Hospitality & Services,1485367,1,3,1
+TXN-01751,Kaura Namoda,Hospitality & Services,1590450,0,15,0
+TXN-01752,Gusau,Small-Scale Manufacturing,1739576,0,3,0
+TXN-01753,Gusau,Retail & Commerce,315976,1,11,0
+TXN-01754,Gusau,Transportation,1655196,0,3,0
+TXN-01755,Zurmi,Agriculture & Agro-Allied,62467,1,10,0
+TXN-01756,Bukkuyum,Agriculture & Agro-Allied,1139601,0,18,0
+TXN-01757,Zurmi,Agriculture & Agro-Allied,1242755,0,1,0
+TXN-01758,Talata Mafara,Retail & Commerce,1095851,1,16,0
+TXN-01759,Gusau,Retail & Commerce,127994,0,16,0
+TXN-01760,Kaura Namoda,Hospitality & Services,144202,2,10,0
+TXN-01761,Talata Mafara,Agriculture & Agro-Allied,1697982,1,1,0
+TXN-01762,Gummi,Transportation,1484730,1,4,0
+TXN-01763,Gusau,Retail & Commerce,494854,0,3,0
+TXN-01764,Talata Mafara,Agriculture & Agro-Allied,210185,1,5,0
+TXN-01765,Gusau,Retail & Commerce,2231515,2,12,1
+TXN-01766,Gusau,Agriculture & Agro-Allied,2008615,1,12,1
+TXN-01767,Bukkuyum,Retail & Commerce,2472340,0,13,1
+TXN-01768,Talata Mafara,Retail & Commerce,2358179,2,24,1
+TXN-01769,Talata Mafara,Agriculture & Agro-Allied,1028534,4,12,1
+TXN-01770,Talata Mafara,Agriculture & Agro-Allied,323958,2,16,1
+TXN-01771,Talata Mafara,Retail & Commerce,2419320,0,13,1
+TXN-01772,Bukkuyum,Small-Scale Manufacturing,945668,4,5,1
+TXN-01773,Gummi,Retail & Commerce,1368155,0,24,0
+TXN-01774,Zurmi,Transportation,1034588,0,4,0
+TXN-01775,Bukkuyum,Transportation,305095,0,21,0
+TXN-01776,Gusau,Small-Scale Manufacturing,531632,3,15,0
+TXN-01777,Bakura,Hospitality & Services,1359752,0,12,0
+TXN-01778,Talata Mafara,Retail & Commerce,2396869,0,19,1
+TXN-01779,Gusau,Transportation,1131516,0,21,0
+TXN-01780,Gummi,Hospitality & Services,579954,1,19,1
+TXN-01781,Gusau,Retail & Commerce,959834,0,21,0
+TXN-01782,Gummi,Retail & Commerce,2353869,1,11,0
+TXN-01783,Talata Mafara,Agriculture & Agro-Allied,1461910,1,21,0
+TXN-01784,Bakura,Hospitality & Services,1461188,1,6,0
+TXN-01785,Bakura,Hospitality & Services,76505,1,9,0
+TXN-01786,Gummi,Agriculture & Agro-Allied,879601,2,1,1
+TXN-01787,Bakura,Retail & Commerce,1302930,2,12,0
+TXN-01788,Kaura Namoda,Retail & Commerce,1700375,0,14,1
+TXN-01789,Gusau,Agriculture & Agro-Allied,1925530,1,6,0
+TXN-01790,Kaura Namoda,Small-Scale Manufacturing,262204,0,1,0
+TXN-01791,Gusau,Agriculture & Agro-Allied,2396988,1,22,1
+TXN-01792,Bukkuyum,Agriculture & Agro-Allied,578168,0,2,0
+TXN-01793,Kaura Namoda,Retail & Commerce,1023215,2,24,0
+TXN-01794,Bakura,Transportation,617827,2,11,0
+TXN-01795,Gusau,Agriculture & Agro-Allied,2387208,1,3,1
+TXN-01796,Gusau,Transportation,1317633,3,10,0
+TXN-01797,Bakura,Retail & Commerce,557800,2,6,1
+TXN-01798,Gusau,Agriculture & Agro-Allied,1203419,2,6,0
+TXN-01799,Gusau,Agriculture & Agro-Allied,2076182,2,20,0
+TXN-01800,Gusau,Retail & Commerce,493942,1,21,0
+TXN-01801,Zurmi,Agriculture & Agro-Allied,98784,2,2,0
+TXN-01802,Bukkuyum,Small-Scale Manufacturing,2260186,1,24,1
+TXN-01803,Talata Mafara,Hospitality & Services,2059413,1,10,1
+TXN-01804,Gusau,Small-Scale Manufacturing,1823462,1,23,1
+TXN-01805,Gusau,Agriculture & Agro-Allied,103997,0,6,0
+TXN-01806,Bukkuyum,Small-Scale Manufacturing,2140053,0,23,1
+TXN-01807,Bakura,Retail & Commerce,231413,0,17,1
+TXN-01808,Gusau,Retail & Commerce,1510865,2,14,1
+TXN-01809,Gusau,Agriculture & Agro-Allied,1463119,3,5,1
+TXN-01810,Gusau,Agriculture & Agro-Allied,850981,1,23,0
+TXN-01811,Bakura,Transportation,2099875,2,17,0
+TXN-01812,Bukkuyum,Retail & Commerce,790686,1,2,0
+TXN-01813,Gusau,Agriculture & Agro-Allied,1567307,2,9,1
+TXN-01814,Gusau,Retail & Commerce,1512108,1,12,0
+TXN-01815,Gusau,Agriculture & Agro-Allied,2304407,3,19,0
+TXN-01816,Zurmi,Retail & Commerce,930292,0,22,0
+TXN-01817,Gusau,Retail & Commerce,598912,0,7,0
+TXN-01818,Bukkuyum,Hospitality & Services,1577573,0,9,0
+TXN-01819,Bakura,Hospitality & Services,620993,1,21,0
+TXN-01820,Talata Mafara,Retail & Commerce,1712190,2,16,1
+TXN-01821,Gusau,Retail & Commerce,896822,0,20,0
+TXN-01822,Gusau,Retail & Commerce,2215521,0,11,1
+TXN-01823,Kaura Namoda,Hospitality & Services,1300469,1,12,1
+TXN-01824,Bukkuyum,Retail & Commerce,1370309,0,15,0
+TXN-01825,Bakura,Agriculture & Agro-Allied,1735876,2,18,1
+TXN-01826,Kaura Namoda,Agriculture & Agro-Allied,1958189,1,19,0
+TXN-01827,Gusau,Retail & Commerce,750146,2,16,0
+TXN-01828,Zurmi,Retail & Commerce,2223577,1,15,0
+TXN-01829,Bukkuyum,Hospitality & Services,2046366,0,5,0
+TXN-01830,Gusau,Agriculture & Agro-Allied,1638858,1,11,0
+TXN-01831,Zurmi,Retail & Commerce,1068543,1,15,1
+TXN-01832,Kaura Namoda,Hospitality & Services,161915,1,18,0
+TXN-01833,Kaura Namoda,Hospitality & Services,435105,1,13,0
+TXN-01834,Bukkuyum,Retail & Commerce,1203248,0,4,0
+TXN-01835,Bukkuyum,Retail & Commerce,368821,3,17,0
+TXN-01836,Bakura,Retail & Commerce,82930,0,4,1
+TXN-01837,Gusau,Small-Scale Manufacturing,1171889,2,16,0
+TXN-01838,Gusau,Agriculture & Agro-Allied,799211,1,23,0
+TXN-01839,Zurmi,Small-Scale Manufacturing,2043384,5,15,1
+TXN-01840,Gusau,Transportation,2380063,1,14,0
+TXN-01841,Talata Mafara,Retail & Commerce,1194634,1,12,0
+TXN-01842,Talata Mafara,Agriculture & Agro-Allied,2235028,1,3,1
+TXN-01843,Talata Mafara,Retail & Commerce,659654,2,10,0
+TXN-01844,Kaura Namoda,Retail & Commerce,587691,1,8,0
+TXN-01845,Zurmi,Agriculture & Agro-Allied,822838,1,6,0
+TXN-01846,Gusau,Transportation,311420,1,22,1
+TXN-01847,Gusau,Small-Scale Manufacturing,527843,0,14,0
+TXN-01848,Gusau,Retail & Commerce,385639,1,17,0
+TXN-01849,Gummi,Transportation,2310156,1,21,0
+TXN-01850,Bakura,Agriculture & Agro-Allied,408234,1,19,0
+TXN-01851,Gusau,Retail & Commerce,1397421,1,16,0
+TXN-01852,Bukkuyum,Agriculture & Agro-Allied,446601,1,15,0
+TXN-01853,Gummi,Retail & Commerce,1875260,2,15,1
+TXN-01854,Gummi,Small-Scale Manufacturing,2115306,0,1,0
+TXN-01855,Gummi,Transportation,631529,0,24,0
+TXN-01856,Gusau,Agriculture & Agro-Allied,2212182,0,23,1
+TXN-01857,Bukkuyum,Retail & Commerce,1262980,0,23,0
+TXN-01858,Talata Mafara,Retail & Commerce,1305973,0,12,0
+TXN-01859,Gummi,Retail & Commerce,155185,1,10,0
+TXN-01860,Bukkuyum,Hospitality & Services,105182,1,14,0
+TXN-01861,Bukkuyum,Hospitality & Services,1727465,2,10,1
+TXN-01862,Bakura,Retail & Commerce,753023,0,10,0
+TXN-01863,Gusau,Retail & Commerce,902318,0,20,1
+TXN-01864,Kaura Namoda,Agriculture & Agro-Allied,2493144,0,11,1
+TXN-01865,Zurmi,Agriculture & Agro-Allied,1922508,1,22,0
+TXN-01866,Zurmi,Retail & Commerce,658434,0,16,0
+TXN-01867,Gusau,Retail & Commerce,1056630,0,9,0
+TXN-01868,Gusau,Transportation,622285,2,15,1
+TXN-01869,Gusau,Transportation,194375,1,14,0
+TXN-01870,Bukkuyum,Agriculture & Agro-Allied,1569644,0,19,0
+TXN-01871,Bukkuyum,Retail & Commerce,85187,1,9,0
+TXN-01872,Gusau,Agriculture & Agro-Allied,1039280,1,4,0
+TXN-01873,Kaura Namoda,Agriculture & Agro-Allied,707253,1,21,0
+TXN-01874,Gummi,Hospitality & Services,1767689,1,7,1
+TXN-01875,Bukkuyum,Agriculture & Agro-Allied,1568560,1,22,1
+TXN-01876,Kaura Namoda,Retail & Commerce,1944420,1,8,1
+TXN-01877,Kaura Namoda,Agriculture & Agro-Allied,591797,0,24,0
+TXN-01878,Kaura Namoda,Hospitality & Services,118653,0,8,0
+TXN-01879,Gusau,Retail & Commerce,742289,3,19,1
+TXN-01880,Kaura Namoda,Agriculture & Agro-Allied,2413338,2,15,1
+TXN-01881,Bakura,Retail & Commerce,1292222,1,16,0
+TXN-01882,Gummi,Transportation,1846218,3,22,1
+TXN-01883,Bakura,Small-Scale Manufacturing,2434318,0,23,0
+TXN-01884,Bukkuyum,Agriculture & Agro-Allied,1854898,2,9,1
+TXN-01885,Gusau,Hospitality & Services,602226,0,12,0
+TXN-01886,Talata Mafara,Small-Scale Manufacturing,954603,0,16,1
+TXN-01887,Gusau,Small-Scale Manufacturing,310710,1,4,0
+TXN-01888,Gusau,Retail & Commerce,1330896,1,5,0
+TXN-01889,Bukkuyum,Retail & Commerce,2090403,1,8,1
+TXN-01890,Zurmi,Retail & Commerce,1503953,0,1,0
+TXN-01891,Gusau,Transportation,988193,1,6,0
+TXN-01892,Talata Mafara,Retail & Commerce,1455419,0,15,0
+TXN-01893,Bukkuyum,Transportation,1593103,0,4,0
+TXN-01894,Gusau,Retail & Commerce,1828244,0,21,0
+TXN-01895,Kaura Namoda,Transportation,638033,2,11,0
+TXN-01896,Bukkuyum,Hospitality & Services,1230859,2,5,0
+TXN-01897,Kaura Namoda,Agriculture & Agro-Allied,443445,2,18,1
+TXN-01898,Gusau,Hospitality & Services,2030425,0,24,0
+TXN-01899,Talata Mafara,Retail & Commerce,606107,0,15,0
+TXN-01900,Bukkuyum,Hospitality & Services,2194931,0,18,0
+TXN-01901,Kaura Namoda,Retail & Commerce,1511742,2,20,0
+TXN-01902,Gusau,Retail & Commerce,1459993,3,13,1
+TXN-01903,Bukkuyum,Small-Scale Manufacturing,2128937,1,5,1
+TXN-01904,Gusau,Agriculture & Agro-Allied,2292516,0,1,1
+TXN-01905,Bukkuyum,Hospitality & Services,577340,0,22,0
+TXN-01906,Gusau,Retail & Commerce,1405097,2,18,0
+TXN-01907,Zurmi,Retail & Commerce,2105397,2,14,1
+TXN-01908,Talata Mafara,Retail & Commerce,1297486,0,5,0
+TXN-01909,Gusau,Retail & Commerce,2477115,2,6,1
+TXN-01910,Gusau,Retail & Commerce,1998697,2,24,1
+TXN-01911,Gusau,Agriculture & Agro-Allied,1075607,0,16,0
+TXN-01912,Gummi,Agriculture & Agro-Allied,1245268,0,22,0
+TXN-01913,Zurmi,Agriculture & Agro-Allied,1129037,1,21,1
+TXN-01914,Talata Mafara,Small-Scale Manufacturing,1065930,2,12,0
+TXN-01915,Talata Mafara,Small-Scale Manufacturing,905695,3,20,0
+TXN-01916,Bukkuyum,Retail & Commerce,162036,3,18,0
+TXN-01917,Gummi,Transportation,238674,1,2,1
+TXN-01918,Kaura Namoda,Retail & Commerce,2434819,0,23,1
+TXN-01919,Talata Mafara,Transportation,939694,2,21,0
+TXN-01920,Talata Mafara,Hospitality & Services,640348,2,23,0
+TXN-01921,Bakura,Small-Scale Manufacturing,1421446,1,13,0
+TXN-01922,Gusau,Retail & Commerce,959121,1,17,0
+TXN-01923,Kaura Namoda,Transportation,2190314,3,17,0
+TXN-01924,Talata Mafara,Agriculture & Agro-Allied,323497,0,16,1
+TXN-01925,Bukkuyum,Small-Scale Manufacturing,2259465,1,21,0
+TXN-01926,Gusau,Agriculture & Agro-Allied,2175629,0,18,0
+TXN-01927,Kaura Namoda,Retail & Commerce,1778506,1,8,0
+TXN-01928,Talata Mafara,Transportation,2233525,0,3,0
+TXN-01929,Bakura,Transportation,743464,1,17,0
+TXN-01930,Gusau,Agriculture & Agro-Allied,768730,2,18,0
+TXN-01931,Kaura Namoda,Small-Scale Manufacturing,1627415,2,23,0
+TXN-01932,Kaura Namoda,Agriculture & Agro-Allied,118359,0,6,0
+TXN-01933,Kaura Namoda,Retail & Commerce,523919,2,8,1
+TXN-01934,Kaura Namoda,Agriculture & Agro-Allied,1408356,3,23,0
+TXN-01935,Bakura,Retail & Commerce,1565719,0,13,1
+TXN-01936,Bukkuyum,Retail & Commerce,866117,1,8,0
+TXN-01937,Gusau,Retail & Commerce,887566,4,19,0
+TXN-01938,Gummi,Agriculture & Agro-Allied,2498212,1,6,1
+TXN-01939,Talata Mafara,Agriculture & Agro-Allied,1206543,3,23,1
+TXN-01940,Gusau,Retail & Commerce,144455,2,15,0
+TXN-01941,Gusau,Transportation,1559639,2,10,0
+TXN-01942,Gusau,Hospitality & Services,1273981,2,17,0
+TXN-01943,Bukkuyum,Agriculture & Agro-Allied,2386798,1,1,0
+TXN-01944,Bakura,Retail & Commerce,239937,0,7,0
+TXN-01945,Bukkuyum,Agriculture & Agro-Allied,2208344,1,13,1
+TXN-01946,Kaura Namoda,Agriculture & Agro-Allied,2338910,4,3,1
+TXN-01947,Talata Mafara,Transportation,885165,1,19,0
+TXN-01948,Gusau,Retail & Commerce,862425,2,15,0
+TXN-01949,Gusau,Agriculture & Agro-Allied,1784428,1,5,1
+TXN-01950,Talata Mafara,Agriculture & Agro-Allied,336287,2,11,1
+TXN-01951,Gusau,Agriculture & Agro-Allied,2093683,2,22,0
+TXN-01952,Gusau,Hospitality & Services,1603749,0,18,0
+TXN-01953,Kaura Namoda,Small-Scale Manufacturing,2328214,1,3,0
+TXN-01954,Bukkuyum,Agriculture & Agro-Allied,506104,0,6,0
+TXN-01955,Zurmi,Agriculture & Agro-Allied,2216503,4,3,1
+TXN-01956,Zurmi,Hospitality & Services,284085,0,5,0
+TXN-01957,Bakura,Small-Scale Manufacturing,808171,1,9,0
+TXN-01958,Talata Mafara,Retail & Commerce,548095,1,19,0
+TXN-01959,Bakura,Agriculture & Agro-Allied,2217461,0,13,0
+TXN-01960,Bukkuyum,Agriculture & Agro-Allied,736093,1,6,1
+TXN-01961,Gusau,Retail & Commerce,1217732,0,11,0
+TXN-01962,Talata Mafara,Retail & Commerce,2485296,1,21,1
+TXN-01963,Gummi,Agriculture & Agro-Allied,1540424,0,21,1
+TXN-01964,Talata Mafara,Retail & Commerce,71576,1,14,0
+TXN-01965,Kaura Namoda,Agriculture & Agro-Allied,1085865,1,6,0
+TXN-01966,Kaura Namoda,Transportation,1378668,1,6,1
+TXN-01967,Gusau,Retail & Commerce,2236203,1,17,1
+TXN-01968,Talata Mafara,Agriculture & Agro-Allied,2082342,3,11,1
+TXN-01969,Gusau,Retail & Commerce,1845292,0,15,0
+TXN-01970,Gusau,Retail & Commerce,1880276,1,9,0
+TXN-01971,Gusau,Small-Scale Manufacturing,2350457,3,21,1
+TXN-01972,Gummi,Retail & Commerce,623722,3,17,0
+TXN-01973,Gusau,Agriculture & Agro-Allied,2213769,0,24,0
+TXN-01974,Kaura Namoda,Transportation,691857,1,7,0
+TXN-01975,Gusau,Agriculture & Agro-Allied,1830248,2,7,1
+TXN-01976,Zurmi,Small-Scale Manufacturing,1982360,1,21,1
+TXN-01977,Gusau,Retail & Commerce,916164,0,1,0
+TXN-01978,Talata Mafara,Retail & Commerce,1180070,0,8,0
+TXN-01979,Gummi,Agriculture & Agro-Allied,1842841,1,5,0
+TXN-01980,Gummi,Retail & Commerce,651513,0,19,0
+TXN-01981,Gusau,Hospitality & Services,2230019,1,8,0
+TXN-01982,Bukkuyum,Hospitality & Services,2315752,1,17,0
+TXN-01983,Talata Mafara,Agriculture & Agro-Allied,829957,0,19,0
+TXN-01984,Talata Mafara,Agriculture & Agro-Allied,1963980,0,12,0
+TXN-01985,Gusau,Hospitality & Services,1557394,1,23,0
+TXN-01986,Gusau,Small-Scale Manufacturing,304265,3,15,1
+TXN-01987,Bukkuyum,Agriculture & Agro-Allied,569493,0,4,0
+TXN-01988,Talata Mafara,Retail & Commerce,2311556,4,23,1
+TXN-01989,Talata Mafara,Retail & Commerce,960913,0,12,0
+TXN-01990,Bukkuyum,Hospitality & Services,2107017,0,13,0
+TXN-01991,Bukkuyum,Agriculture & Agro-Allied,703817,0,14,0
+TXN-01992,Gusau,Agriculture & Agro-Allied,1046433,1,5,0
+TXN-01993,Kaura Namoda,Transportation,2085286,2,22,0
+TXN-01994,Gusau,Agriculture & Agro-Allied,2411547,2,16,1
+TXN-01995,Bukkuyum,Retail & Commerce,1984116,0,7,1
+TXN-01996,Bakura,Retail & Commerce,732387,1,15,1
+TXN-01997,Zurmi,Retail & Commerce,1195958,0,13,0
+TXN-01998,Gusau,Retail & Commerce,529767,1,16,0
+TXN-01999,Gusau,Retail & Commerce,59583,1,12,0
+TXN-02000,Gusau,Agriculture & Agro-Allied,624675,2,7,0
